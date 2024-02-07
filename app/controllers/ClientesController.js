@@ -32,6 +32,49 @@ class ClientesController {
     /**
      * @static
      * @memberof ClientesController
+     * @description Actualiza la informacion de un nuevo
+     */
+    static update = async ({ body, files }, response) => {
+
+        let cliente = await Clientes.findOne({ _id: body.cliente_id });
+        if(!cliente) return response.status(400).json({message: "Cliente no encontrado"})
+
+        if(body.nombre != undefined) cliente.nombre = body.nombre;
+        if(body.apellidos != undefined) cliente.apellidos = body.apellidos;
+        if(body.email != undefined) cliente.email = body.email;
+        if(body.telefono != undefined) cliente.telefono = body.telefono;
+        if(body.notas != undefined) cliente.notas = body.notas;
+
+        if(body.direccion1 != undefined) cliente.direccion1 = body.direccion1;
+        if(body.direccion2 != undefined) cliente.direccion2 = body.direccion2;
+        if(body.ciudad != undefined) cliente.ciudad = body.ciudad;
+        if(body.estado_id != undefined) cliente.estado_id = body.estado_id;
+        if(body.pais_id != undefined) cliente.pais_id = body.pais_id;
+        if(body.codigo_postal != undefined) cliente.codigo_postal = body.codigo_postal;
+
+        if(body.billing_email != undefined) cliente.billing_email = body.billing_email;
+        if(body.billing_contact != undefined) cliente.billing_contact = body.billing_contact;
+        if(body.billing_phone != undefined) cliente.billing_phone = body.billing_phone;
+        if(body.moneda != undefined) cliente.moneda = body.moneda;
+        if(body.credito_limite != undefined) cliente.credito_limite = body.credito_limite;
+        if(body.credito_diponible != undefined) cliente.credito_diponible = body.credito_diponible;
+        if(body.credito_usado != undefined) cliente.credito_usado = body.credito_usado;
+        if(body.credito_status != undefined) cliente.credito_status = body.credito_status;
+        if(body.status != undefined) cliente.status = body.status;
+
+
+        cliente.save()
+        then(cliente => {
+            return response.status(200).json({message: "Cliente actualizado"})
+        }).catch(error => {
+            return response.status(400).json({message: "Error al actualizar el cliente"})
+        })
+        
+    };
+
+    /**
+     * @static
+     * @memberof ClientesController
      * @description Obtiene un cliente especifico
      */
     static get = async ({ params, query }, response) => {
@@ -79,6 +122,25 @@ class ClientesController {
         return response.status(200).json(clientes);
         
     };
+
+    /**
+     *
+     *
+     * @static
+     * @memberof ClientesController
+     * @description Elimina un cliente de la BD
+     */
+    static delete = async ({ query }, response) => {
+
+        const cliente = await Clientes.findOneAndDelete({_id: query.cliente_id})
+
+        if(!cliente) return response.status(404).json({ message: 'Cliente no encontrado'})
+
+        return response.status(200).json({
+            message: '¡Cliente Eliminado!'
+        })
+    };
+
 
 }
 

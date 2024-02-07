@@ -4,6 +4,7 @@ const express = require('express');
 const fileupload = require("express-fileupload");
 const requestIP = require('request-ip')
 
+const ClientesRouter = require('./routes/ClientesRouter');
 
 module.exports = function () {
 
@@ -29,5 +30,10 @@ module.exports = function () {
 	});
 
 
+	//AGREGAR RUTAS AL SERVIDOR
+	app.use(
+		ClientesRouter
+	);
+	
 	return app;
 }

@@ -19,3 +19,9 @@ const httpServer = http.createServer(app);
 httpServer.listen(PORT, () => {
     console.log('HTTP Server running on port ' + PORT);
 });
+
+
+const readline = require("readline");
+const rl = readline.createInterface({ input: process.stdin, output: process.stdout });
+
+require('./database/seeders')()

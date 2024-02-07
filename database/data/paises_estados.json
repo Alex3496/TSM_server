@@ -1,0 +1,7809 @@
+[
+    {
+        "nombre_en": "Afghanistan",
+        "nombre_es": "Afganistán",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+93",
+        "codigo_2": "AF",
+        "codigo_3": "AFG",
+        "estados": [
+            {
+                "nombre": "Afghanistan"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Albania",
+        "nombre_es": "Albania",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+355",
+        "codigo_2": "AL",
+        "codigo_3": "ALB",
+        "estados": [
+            {
+                "nombre": "Berat"
+            },
+            {
+                "nombre": "Diber"
+            },
+            {
+                "nombre": "Durres"
+            },
+            {
+                "nombre": "Elbasan"
+            },
+            {
+                "nombre": "Fier"
+            },
+            {
+                "nombre": "Gjirokaster"
+            },
+            {
+                "nombre": "Korce"
+            },
+            {
+                "nombre": "Kukes"
+            },
+            {
+                "nombre": "Lezhe"
+            },
+            {
+                "nombre": "Shkoder"
+            },
+            {
+                "nombre": "Tirane"
+            },
+            {
+                "nombre": "Vlore"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Germany",
+        "nombre_es": "Alemania",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+49",
+        "codigo_2": "DE",
+        "codigo_3": "DEU",
+        "estados": [
+            {
+                "nombre": "Brandenburg"
+            },
+            {
+                "nombre": "Baden-Württemberg"
+            },
+            {
+                "nombre": "Bayern"
+            },
+            {
+                "nombre": "Hessen"
+            },
+            {
+                "nombre": "Hamburg"
+            },
+            {
+                "nombre": "Mecklenburg-Vorpommern"
+            },
+            {
+                "nombre": "Niedersachsen"
+            },
+            {
+                "nombre": "Nordrhein-Westfalen"
+            },
+            {
+                "nombre": "Rheinland-Pfalz"
+            },
+            {
+                "nombre": "Schleswig-Holstein"
+            },
+            {
+                "nombre": "Sachsen"
+            },
+            {
+                "nombre": "Sachsen-Anhalt"
+            },
+            {
+                "nombre": "Thüringen"
+            },
+            {
+                "nombre": "Berlin"
+            },
+            {
+                "nombre": "Bremen"
+            },
+            {
+                "nombre": "Saarland"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Algeria",
+        "nombre_es": "Argelia",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+213",
+        "codigo_2": "DZ",
+        "codigo_3": "DZA",
+        "estados": [
+            {
+                "nombre": "Algeria"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Andorra",
+        "nombre_es": "Andorra",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+376",
+        "codigo_2": "AD",
+        "codigo_3": "AND",
+        "estados": [
+            {
+                "nombre": "Canillo"
+            },
+            {
+                "nombre": "Encamp"
+            },
+            {
+                "nombre": "La Massana"
+            },
+            {
+                "nombre": "Ordino"
+            },
+            {
+                "nombre": "Sant Julia de Loria"
+            },
+            {
+                "nombre": "Andorra la Vella"
+            },
+            {
+                "nombre": "Escaldes-Engordany"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Angola",
+        "nombre_es": "Angola",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+244",
+        "codigo_2": "AO",
+        "codigo_3": "AGO",
+        "estados": [
+            {
+                "nombre": "Angola"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Anguilla",
+        "nombre_es": "Anguilla",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+1264",
+        "codigo_2": "AI",
+        "codigo_3": "AIA",
+        "estados": [
+            {
+                "nombre": "Anguilla"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Antigua and Barbuda",
+        "nombre_es": "Antigua y Barbuda",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+1268",
+        "codigo_2": "AG",
+        "codigo_3": "ATG",
+        "estados": [
+            {
+                "nombre": "Antigua and Barbuda"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Saudi Arabia",
+        "nombre_es": "Arabia Saudita",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+966",
+        "codigo_2": "SA",
+        "codigo_3": "SAU",
+        "estados": [
+            {
+                "nombre": "Saudi Arabia"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Argentina",
+        "nombre_es": "Argentina",
+        "continente_en": "South America",
+        "continente_es": "América del Sur",
+        "codigo_internacional": "+54",
+        "codigo_2": "AR",
+        "codigo_3": "ARG",
+        "estados": [
+            {
+                "nombre": "Buenos Aires"
+            },
+            {
+                "nombre": "Catamarca"
+            },
+            {
+                "nombre": "Chaco"
+            },
+            {
+                "nombre": "Chubut"
+            },
+            {
+                "nombre": "Córdoba"
+            },
+            {
+                "nombre": "Corrientes"
+            },
+            {
+                "nombre": "Distrito Federal"
+            },
+            {
+                "nombre": "Entre Ríos"
+            },
+            {
+                "nombre": "Formosa"
+            },
+            {
+                "nombre": "Jujuy"
+            },
+            {
+                "nombre": "La Pampa"
+            },
+            {
+                "nombre": "La Rioja"
+            },
+            {
+                "nombre": "Mendoza"
+            },
+            {
+                "nombre": "Misiones"
+            },
+            {
+                "nombre": "Neuquén"
+            },
+            {
+                "nombre": "Río Negro"
+            },
+            {
+                "nombre": "Salta"
+            },
+            {
+                "nombre": "San Juan"
+            },
+            {
+                "nombre": "San Luis"
+            },
+            {
+                "nombre": "Santa Cruz"
+            },
+            {
+                "nombre": "Santa Fe"
+            },
+            {
+                "nombre": "Santiago del Estero"
+            },
+            {
+                "nombre": "Tierra del Fuego"
+            },
+            {
+                "nombre": "Tucumán"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Armenia",
+        "nombre_es": "Armenia",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+374",
+        "codigo_2": "AM",
+        "codigo_3": "ARM",
+        "estados": [
+            {
+                "nombre": "Aragatsotn"
+            },
+            {
+                "nombre": "Ararat"
+            },
+            {
+                "nombre": "Armavir"
+            },
+            {
+                "nombre": "Gegharkunik"
+            },
+            {
+                "nombre": "Kotayk"
+            },
+            {
+                "nombre": "Lorri"
+            },
+            {
+                "nombre": "Shirak"
+            },
+            {
+                "nombre": "Syunik"
+            },
+            {
+                "nombre": "Tavush"
+            },
+            {
+                "nombre": "Vayots Dzor"
+            },
+            {
+                "nombre": "Yerevan"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Aruba",
+        "nombre_es": "Aruba",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+297",
+        "codigo_2": "AW",
+        "codigo_3": "ABW",
+        "estados": [
+            {
+                "nombre": "Aruba"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Australia",
+        "nombre_es": "Australia",
+        "continente_en": "Oceania",
+        "continente_es": "Oceanía",
+        "codigo_internacional": "+61",
+        "codigo_2": "AU",
+        "codigo_3": "AUS",
+        "estados": [
+            {
+                "nombre": "Australian Capital Territory"
+            },
+            {
+                "nombre": "New South Wales"
+            },
+            {
+                "nombre": "Northern Territory"
+            },
+            {
+                "nombre": "Queensland"
+            },
+            {
+                "nombre": "South Australia"
+            },
+            {
+                "nombre": "Tasmania"
+            },
+            {
+                "nombre": "Victoria"
+            },
+            {
+                "nombre": "Western Australia"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Austria",
+        "nombre_es": "Austria",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+43",
+        "codigo_2": "AT",
+        "codigo_3": "AUT",
+        "estados": [
+            {
+                "nombre": "Burgenland"
+            },
+            {
+                "nombre": "Kärnten"
+            },
+            {
+                "nombre": "Niederösterreich"
+            },
+            {
+                "nombre": "Oberösterreich"
+            },
+            {
+                "nombre": "Salzburg"
+            },
+            {
+                "nombre": "Steiermark"
+            },
+            {
+                "nombre": "Tirol"
+            },
+            {
+                "nombre": "Vorarlberg"
+            },
+            {
+                "nombre": "Wien"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Azerbaijan",
+        "nombre_es": "Azerbaiyán",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+994",
+        "codigo_2": "AZ",
+        "codigo_3": "AZE",
+        "estados": [
+            {
+                "nombre": "Azerbaijan"
+            },
+            {
+                "nombre": "Nargorni Karabakh"
+            },
+            {
+                "nombre": "Nakhichevanskaya Region"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Bahamas",
+        "nombre_es": "Bahamas",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+1242",
+        "codigo_2": "BS",
+        "codigo_3": "BHS",
+        "estados": [
+            {
+                "nombre": "Bahamas"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Bangladesh",
+        "nombre_es": "Bangladés",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+880",
+        "codigo_2": "BD",
+        "codigo_3": "BGD",
+        "estados": [
+            {
+                "nombre": "Bangladesh"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Barbados",
+        "nombre_es": "Barbados",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+1246",
+        "codigo_2": "BB",
+        "codigo_3": "BRB",
+        "estados": [
+            {
+                "nombre": "Barbados"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Belgium",
+        "nombre_es": "Bélgica",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+32",
+        "codigo_2": "BE",
+        "codigo_3": "BEL",
+        "estados": [
+            {
+                "nombre": "Bruxelles"
+            },
+            {
+                "nombre": "West-Vlaanderen"
+            },
+            {
+                "nombre": "Oost-Vlaanderen"
+            },
+            {
+                "nombre": "Limburg"
+            },
+            {
+                "nombre": "Vlaams Brabant"
+            },
+            {
+                "nombre": "Antwerpen"
+            },
+            {
+                "nombre": "LiÃ„Â�ge"
+            },
+            {
+                "nombre": "Namur"
+            },
+            {
+                "nombre": "Hainaut"
+            },
+            {
+                "nombre": "Luxembourg"
+            },
+            {
+                "nombre": "Brabant Wallon"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Belize",
+        "nombre_es": "Belice",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+501",
+        "codigo_2": "BZ",
+        "codigo_3": "BLZ",
+        "estados": [
+            {
+                "nombre": "Belize"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Bermuda",
+        "nombre_es": "Bermudas",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+1441",
+        "codigo_2": "BM",
+        "codigo_3": "BMU",
+        "estados": [
+            {
+                "nombre": "Hamilton"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Belarus",
+        "nombre_es": "Bielorrusia",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+375",
+        "codigo_2": "BY",
+        "codigo_3": "BLR",
+        "estados": [
+            {
+                "nombre": "Brestskaya obl."
+            },
+            {
+                "nombre": "Vitebskaya obl."
+            },
+            {
+                "nombre": "Gomelskaya obl."
+            },
+            {
+                "nombre": "Grodnenskaya obl."
+            },
+            {
+                "nombre": "Minskaya obl."
+            },
+            {
+                "nombre": "Mogilevskaya obl."
+            }
+        ]
+    },
+    {
+        "nombre_en": "Bolivia",
+        "nombre_es": "Bolivia",
+        "continente_en": "South America",
+        "continente_es": "América del Sur",
+        "codigo_internacional": "+591",
+        "codigo_2": "BO",
+        "codigo_3": "BOL",
+        "estados": [
+            {
+                "nombre": "Chuquisaca"
+            },
+            {
+                "nombre": "Cochabamba"
+            },
+            {
+                "nombre": "El Beni"
+            },
+            {
+                "nombre": "La Paz"
+            },
+            {
+                "nombre": "Oruro"
+            },
+            {
+                "nombre": "Pando"
+            },
+            {
+                "nombre": "Potosí"
+            },
+            {
+                "nombre": "Santa Cruz"
+            },
+            {
+                "nombre": "Tarija"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Bosnia and Herzegovina",
+        "nombre_es": "Bosnia y Herzegovina",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+387",
+        "codigo_2": "BA",
+        "codigo_3": "BIH",
+        "estados": [
+            {
+                "nombre": "Federation of Bosnia and Herzegovina"
+            },
+            {
+                "nombre": "Republika Srpska"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Botswana",
+        "nombre_es": "Botsuana",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+267",
+        "codigo_2": "BW",
+        "codigo_3": "BWA",
+        "estados": [
+            {
+                "nombre": "Botswana"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Brazil",
+        "nombre_es": "Brasil",
+        "continente_en": "South America",
+        "continente_es": "América del Sur",
+        "codigo_internacional": "+55",
+        "codigo_2": "BR",
+        "codigo_3": "BRA",
+        "estados": [
+            {
+                "nombre": "Acre"
+            },
+            {
+                "nombre": "Alagoas"
+            },
+            {
+                "nombre": "Amapa"
+            },
+            {
+                "nombre": "Amazonas"
+            },
+            {
+                "nombre": "Bahia"
+            },
+            {
+                "nombre": "Ceara"
+            },
+            {
+                "nombre": "Distrito Federal"
+            },
+            {
+                "nombre": "Espirito Santo"
+            },
+            {
+                "nombre": "Mato Grosso do Sul"
+            },
+            {
+                "nombre": "Maranhao"
+            },
+            {
+                "nombre": "Mato Grosso"
+            },
+            {
+                "nombre": "Minas Gerais"
+            },
+            {
+                "nombre": "Para"
+            },
+            {
+                "nombre": "Paraiba"
+            },
+            {
+                "nombre": "Parana"
+            },
+            {
+                "nombre": "Piaui"
+            },
+            {
+                "nombre": "Rio de Janeiro"
+            },
+            {
+                "nombre": "Rio Grande do Norte"
+            },
+            {
+                "nombre": "Rio Grande do Sul"
+            },
+            {
+                "nombre": "Rondonia"
+            },
+            {
+                "nombre": "Roraima"
+            },
+            {
+                "nombre": "Santa Catarina"
+            },
+            {
+                "nombre": "Sao Paulo"
+            },
+            {
+                "nombre": "Sergipe"
+            },
+            {
+                "nombre": "Goias"
+            },
+            {
+                "nombre": "Pernambuco"
+            },
+            {
+                "nombre": "Tocantins"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Brunei Darussalam",
+        "nombre_es": "Brunéi",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+673",
+        "codigo_2": "BN",
+        "codigo_3": "BRN",
+        "estados": [
+            {
+                "nombre": "Brunei"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Bulgaria",
+        "nombre_es": "Bulgaria",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+359",
+        "codigo_2": "BG",
+        "codigo_3": "BGR",
+        "estados": [
+            {
+                "nombre": "Mikhaylovgrad"
+            },
+            {
+                "nombre": "Blagoevgrad"
+            },
+            {
+                "nombre": "Burgas"
+            },
+            {
+                "nombre": "Dobrich"
+            },
+            {
+                "nombre": "Gabrovo"
+            },
+            {
+                "nombre": "Grad Sofiya"
+            },
+            {
+                "nombre": "Khaskovo"
+            },
+            {
+                "nombre": "Kurdzhali"
+            },
+            {
+                "nombre": "Kyustendil"
+            },
+            {
+                "nombre": "Lovech"
+            },
+            {
+                "nombre": "Montana"
+            },
+            {
+                "nombre": "Pazardzhik"
+            },
+            {
+                "nombre": "Pernik"
+            },
+            {
+                "nombre": "Pleven"
+            },
+            {
+                "nombre": "Plovdiv"
+            },
+            {
+                "nombre": "Razgrad"
+            },
+            {
+                "nombre": "Ruse"
+            },
+            {
+                "nombre": "Shumen"
+            },
+            {
+                "nombre": "Silistra"
+            },
+            {
+                "nombre": "Sliven"
+            },
+            {
+                "nombre": "Smolyan"
+            },
+            {
+                "nombre": "Sofiya"
+            },
+            {
+                "nombre": "Stara Zagora"
+            },
+            {
+                "nombre": "Turgovishte"
+            },
+            {
+                "nombre": "Varna"
+            },
+            {
+                "nombre": "Veliko Turnovo"
+            },
+            {
+                "nombre": "Vidin"
+            },
+            {
+                "nombre": "Vratsa"
+            },
+            {
+                "nombre": "Yambol"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Burkina Faso",
+        "nombre_es": "Burkina Faso",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+226",
+        "codigo_2": "BF",
+        "codigo_3": "BFA",
+        "estados": [
+            {
+                "nombre": "Burkina Faso"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Burundi",
+        "nombre_es": "Burundi",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+257",
+        "codigo_2": "BI",
+        "codigo_3": "BDI",
+        "estados": [
+            {
+                "nombre": "Burundi"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Bhutan",
+        "nombre_es": "Bután",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+975",
+        "codigo_2": "BT",
+        "codigo_3": "BTN",
+        "estados": [
+            {
+                "nombre": "Bhutan"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Cape Verde",
+        "nombre_es": "Cabo Verde",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+238",
+        "codigo_2": "CV",
+        "codigo_3": "CPV",
+        "estados": [
+            {
+                "nombre": "Cape Verde"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Cambodia",
+        "nombre_es": "Camboya",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+855",
+        "codigo_2": "KH",
+        "codigo_3": "KHM",
+        "estados": [
+            {
+                "nombre": "Cambodia"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Cameroon",
+        "nombre_es": "Camerún",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+237",
+        "codigo_2": "CM",
+        "codigo_3": "CMR",
+        "estados": [
+            {
+                "nombre": "Littoral"
+            },
+            {
+                "nombre": "Southwest Region"
+            },
+            {
+                "nombre": "North"
+            },
+            {
+                "nombre": "Central"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Canada",
+        "nombre_es": "Canadá",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+1",
+        "codigo_2": "CA",
+        "codigo_3": "CAN",
+        "estados": [
+            {
+                "nombre": "Newfoundland"
+            },
+            {
+                "nombre": "Nova Scotia"
+            },
+            {
+                "nombre": "Prince Edward Island"
+            },
+            {
+                "nombre": "New Brunswick"
+            },
+            {
+                "nombre": "Quebec"
+            },
+            {
+                "nombre": "Ontario"
+            },
+            {
+                "nombre": "Manitoba"
+            },
+            {
+                "nombre": "Saskatchewan"
+            },
+            {
+                "nombre": "Alberta"
+            },
+            {
+                "nombre": "British Columbia"
+            },
+            {
+                "nombre": "Nunavut"
+            },
+            {
+                "nombre": "Northwest Territories"
+            },
+            {
+                "nombre": "Yukon Territory"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Chad",
+        "nombre_es": "Chad",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+235",
+        "codigo_2": "TD",
+        "codigo_3": "TCD",
+        "estados": [
+            {
+                "nombre": "Chad"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Chile",
+        "nombre_es": "Chile",
+        "continente_en": "South America",
+        "continente_es": "América del Sur",
+        "codigo_internacional": "+56",
+        "codigo_2": "CL",
+        "codigo_3": "CHL",
+        "estados": [
+            {
+                "nombre": "Valparaíso"
+            },
+            {
+                "nombre": "Aisén del General Carlos Ibánez del Campo"
+            },
+            {
+                "nombre": "Antofagasta"
+            },
+            {
+                "nombre": "Araucanía"
+            },
+            {
+                "nombre": "Atacama"
+            },
+            {
+                "nombre": "Bío-Bío"
+            },
+            {
+                "nombre": "Coquimbo"
+            },
+            {
+                "nombre": "Libertador General Bernardo OHiggins"
+            },
+            {
+                "nombre": "Los Lagos"
+            },
+            {
+                "nombre": "Magallanes y de la Antártica Chilena"
+            },
+            {
+                "nombre": "Maule"
+            },
+            {
+                "nombre": "Region Metropolitana"
+            },
+            {
+                "nombre": "Tarapacá"
+            }
+        ]
+    },
+    {
+        "nombre_en": "China",
+        "nombre_es": "China",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+86",
+        "codigo_2": "CN",
+        "codigo_3": "CHN",
+        "estados": [
+            {
+                "nombre": "Anhui"
+            },
+            {
+                "nombre": "Zhejiang"
+            },
+            {
+                "nombre": "Jiangxi"
+            },
+            {
+                "nombre": "Jiangsu"
+            },
+            {
+                "nombre": "Jilin"
+            },
+            {
+                "nombre": "Qinghai"
+            },
+            {
+                "nombre": "Fujian"
+            },
+            {
+                "nombre": "Heilongjiang"
+            },
+            {
+                "nombre": "Henan"
+            },
+            {
+                "nombre": "Hebei"
+            },
+            {
+                "nombre": "Hunan"
+            },
+            {
+                "nombre": "Hubei"
+            },
+            {
+                "nombre": "Xinjiang"
+            },
+            {
+                "nombre": "Xizang"
+            },
+            {
+                "nombre": "Gansu"
+            },
+            {
+                "nombre": "Guangxi"
+            },
+            {
+                "nombre": "Guizhou"
+            },
+            {
+                "nombre": "Liaoning"
+            },
+            {
+                "nombre": "Nei Mongol"
+            },
+            {
+                "nombre": "Ningxia"
+            },
+            {
+                "nombre": "Beijing"
+            },
+            {
+                "nombre": "Shanghai"
+            },
+            {
+                "nombre": "Shanxi"
+            },
+            {
+                "nombre": "Shandong"
+            },
+            {
+                "nombre": "Shaanxi"
+            },
+            {
+                "nombre": "Sichuan"
+            },
+            {
+                "nombre": "Tianjin"
+            },
+            {
+                "nombre": "Yunnan"
+            },
+            {
+                "nombre": "Guangdong"
+            },
+            {
+                "nombre": "Hainan"
+            },
+            {
+                "nombre": "Chongqing"
+            },
+            {
+                "nombre": "Schanghai"
+            },
+            {
+                "nombre": "Hongkong"
+            },
+            {
+                "nombre": "Neimenggu"
+            },
+            {
+                "nombre": "Aomen"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Cyprus",
+        "nombre_es": "Chipre",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+357",
+        "codigo_2": "CY",
+        "codigo_3": "CYP",
+        "estados": [
+            {
+                "nombre": "Government controlled area"
+            },
+            {
+                "nombre": "Turkish controlled area"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Colombia",
+        "nombre_es": "Colombia",
+        "continente_en": "South America",
+        "continente_es": "América del Sur",
+        "codigo_internacional": "+57",
+        "codigo_2": "CO",
+        "codigo_3": "COL",
+        "estados": [
+            {
+                "nombre": "Amazonas"
+            },
+            {
+                "nombre": "Antioquia"
+            },
+            {
+                "nombre": "Arauca"
+            },
+            {
+                "nombre": "Atlántico"
+            },
+            {
+                "nombre": "Caquetá"
+            },
+            {
+                "nombre": "Cauca"
+            },
+            {
+                "nombre": "César"
+            },
+            {
+                "nombre": "Chocó"
+            },
+            {
+                "nombre": "Córdoba"
+            },
+            {
+                "nombre": "Guaviare"
+            },
+            {
+                "nombre": "Guainía"
+            },
+            {
+                "nombre": "Huila"
+            },
+            {
+                "nombre": "La Guajira"
+            },
+            {
+                "nombre": "Meta"
+            },
+            {
+                "nombre": "Narino"
+            },
+            {
+                "nombre": "Norte de Santander"
+            },
+            {
+                "nombre": "Putumayo"
+            },
+            {
+                "nombre": "Quindío"
+            },
+            {
+                "nombre": "Risaralda"
+            },
+            {
+                "nombre": "San Andrés y Providencia"
+            },
+            {
+                "nombre": "Santander"
+            },
+            {
+                "nombre": "Sucre"
+            },
+            {
+                "nombre": "Tolima"
+            },
+            {
+                "nombre": "Valle del Cauca"
+            },
+            {
+                "nombre": "Vaupés"
+            },
+            {
+                "nombre": "Vichada"
+            },
+            {
+                "nombre": "Casanare"
+            },
+            {
+                "nombre": "Cundinamarca"
+            },
+            {
+                "nombre": "Distrito Capital"
+            },
+            {
+                "nombre": "Caldas"
+            },
+            {
+                "nombre": "Magdalena"
+            },
+            {
+                "nombre": "Bolivar"
+            },
+            {
+                "nombre": "Boyacá"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Congo",
+        "nombre_es": "Congo",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+242",
+        "codigo_2": "CG",
+        "codigo_3": "COG",
+        "estados": [
+            {
+                "nombre": "Congo (Brazzaville)"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Congo",
+        "nombre_es": "Congo",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+242",
+        "codigo_2": "CG",
+        "codigo_3": "COG",
+        "estados": [
+            {
+                "nombre": "Congo"
+            }
+        ]
+    },
+    {
+        "nombre_en": "North Korea",
+        "nombre_es": "Corea del Norte",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+850",
+        "codigo_2": "KP",
+        "codigo_3": "PRK",
+        "estados": [
+            {
+                "nombre": "Korea"
+            }
+        ]
+    },
+    {
+        "nombre_en": "South Korea",
+        "nombre_es": "Corea del Sur",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+82",
+        "codigo_2": "KR",
+        "codigo_3": "KOR",
+        "estados": [
+            {
+                "nombre": "Cheju"
+            },
+            {
+                "nombre": "Chollabuk"
+            },
+            {
+                "nombre": "Chollanam"
+            },
+            {
+                "nombre": "Chungcheongbuk"
+            },
+            {
+                "nombre": "Chungcheongnam"
+            },
+            {
+                "nombre": "Incheon"
+            },
+            {
+                "nombre": "Kangweon"
+            },
+            {
+                "nombre": "Kwangju"
+            },
+            {
+                "nombre": "Kyeonggi"
+            },
+            {
+                "nombre": "Kyeongsangbuk"
+            },
+            {
+                "nombre": "Kyeongsangnam"
+            },
+            {
+                "nombre": "Pusan"
+            },
+            {
+                "nombre": "Seoul"
+            },
+            {
+                "nombre": "Taegu"
+            },
+            {
+                "nombre": "Taejeon"
+            },
+            {
+                "nombre": "Ulsan"
+            },
+            {
+                "nombre": "South Korea"
+            },
+            {
+                "nombre": "Busan"
+            },
+            {
+                "nombre": "Daegu"
+            },
+            {
+                "nombre": "Gangwon"
+            },
+            {
+                "nombre": "Gwangju"
+            },
+            {
+                "nombre": "Gyeonggi"
+            },
+            {
+                "nombre": "Gyeongsangbuk"
+            },
+            {
+                "nombre": "Gyeongsangnam"
+            },
+            {
+                "nombre": "Jeju"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Côte d'Ivoire",
+        "nombre_es": "Costa de Marfil",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+225",
+        "codigo_2": "CI",
+        "codigo_3": "CIV",
+        "estados": [
+            {
+                "nombre": "Cote DIvoire"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Costa Rica",
+        "nombre_es": "Costa Rica",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+506",
+        "codigo_2": "CR",
+        "codigo_3": "CRI",
+        "estados": [
+            {
+                "nombre": "Alajuela"
+            },
+            {
+                "nombre": "Cartago"
+            },
+            {
+                "nombre": "Guanacaste"
+            },
+            {
+                "nombre": "Heredia"
+            },
+            {
+                "nombre": "Limón"
+            },
+            {
+                "nombre": "Puntarenas"
+            },
+            {
+                "nombre": "San José"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Croatia",
+        "nombre_es": "Croacia",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+385",
+        "codigo_2": "HR",
+        "codigo_3": "HRV",
+        "estados": [
+            {
+                "nombre": "Bjelovarsko-Bilogorska"
+            },
+            {
+                "nombre": "Brodsko-Posavska"
+            },
+            {
+                "nombre": "Dubrovacko-Neretvanska"
+            },
+            {
+                "nombre": "Istarska"
+            },
+            {
+                "nombre": "Karlovacka"
+            },
+            {
+                "nombre": "Koprivnicko-Krizevacka"
+            },
+            {
+                "nombre": "Krapinsko-Zagorska"
+            },
+            {
+                "nombre": "Licko-Senjska"
+            },
+            {
+                "nombre": "Medimurska"
+            },
+            {
+                "nombre": "Osjecko-Baranjska"
+            },
+            {
+                "nombre": "Pozesko-Slavonska"
+            },
+            {
+                "nombre": "Primorsko-Goranska"
+            },
+            {
+                "nombre": "Sibensko-Kninska"
+            },
+            {
+                "nombre": "Sisacko-Moslavacka"
+            },
+            {
+                "nombre": "Splitsko-Dalmatinska"
+            },
+            {
+                "nombre": "Varazdinska"
+            },
+            {
+                "nombre": "Viroviticko-Podravska"
+            },
+            {
+                "nombre": "Vukovarsko-Srijemska"
+            },
+            {
+                "nombre": "Zadarska"
+            },
+            {
+                "nombre": "Zagrebacka"
+            },
+            {
+                "nombre": "Grad Zagreb"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Cuba",
+        "nombre_es": "Cuba",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+53",
+        "codigo_2": "CU",
+        "codigo_3": "CUB",
+        "estados": [
+            {
+                "nombre": "Pinar del Rio"
+            },
+            {
+                "nombre": "Ciudad de la Habana"
+            },
+            {
+                "nombre": "Matanzas"
+            },
+            {
+                "nombre": "Isla de la Juventud"
+            },
+            {
+                "nombre": "Camaguey"
+            },
+            {
+                "nombre": "Ciego de Avila"
+            },
+            {
+                "nombre": "Cienfuegos"
+            },
+            {
+                "nombre": "Granma"
+            },
+            {
+                "nombre": "Guantanamo"
+            },
+            {
+                "nombre": "La Habana"
+            },
+            {
+                "nombre": "Holguin"
+            },
+            {
+                "nombre": "Las Tunas"
+            },
+            {
+                "nombre": "Sancti Spiritus"
+            },
+            {
+                "nombre": "Santiago de Cuba"
+            },
+            {
+                "nombre": "Villa Clara"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Denmark",
+        "nombre_es": "Dinamarca",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+45",
+        "codigo_2": "DK",
+        "codigo_3": "DNK",
+        "estados": [
+            {
+                "nombre": "Arhus"
+            },
+            {
+                "nombre": "Bornholm"
+            },
+            {
+                "nombre": "Frederiksborg"
+            },
+            {
+                "nombre": "Fyn"
+            },
+            {
+                "nombre": "Kobenhavn"
+            },
+            {
+                "nombre": "Staden Kobenhavn"
+            },
+            {
+                "nombre": "Nordjylland"
+            },
+            {
+                "nombre": "Ribe"
+            },
+            {
+                "nombre": "Ringkobing"
+            },
+            {
+                "nombre": "Roskilde"
+            },
+            {
+                "nombre": "Sonderjylland"
+            },
+            {
+                "nombre": "Storstrom"
+            },
+            {
+                "nombre": "Vejle"
+            },
+            {
+                "nombre": "Vestsjalland"
+            },
+            {
+                "nombre": "Viborg"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Djibouti",
+        "nombre_es": "Yibuti",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+253",
+        "codigo_2": "DJ",
+        "codigo_3": "DJI",
+        "estados": [
+            {
+                "nombre": "Djibouti"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Ecuador",
+        "nombre_es": "Ecuador",
+        "continente_en": "South America",
+        "continente_es": "América del Sur",
+        "codigo_internacional": "+593",
+        "codigo_2": "EC",
+        "codigo_3": "ECU",
+        "estados": [
+            {
+                "nombre": "Galápagos"
+            },
+            {
+                "nombre": "Azuay"
+            },
+            {
+                "nombre": "Bolívar"
+            },
+            {
+                "nombre": "Canar"
+            },
+            {
+                "nombre": "Carchi"
+            },
+            {
+                "nombre": "Chimborazo"
+            },
+            {
+                "nombre": "Cotopaxi"
+            },
+            {
+                "nombre": "El Oro"
+            },
+            {
+                "nombre": "Esmeraldas"
+            },
+            {
+                "nombre": "Guayas"
+            },
+            {
+                "nombre": "Imbabura"
+            },
+            {
+                "nombre": "Loja"
+            },
+            {
+                "nombre": "Los Ríos"
+            },
+            {
+                "nombre": "Manabí"
+            },
+            {
+                "nombre": "Morona-Santiago"
+            },
+            {
+                "nombre": "Pastaza"
+            },
+            {
+                "nombre": "Pichincha"
+            },
+            {
+                "nombre": "Tungurahua"
+            },
+            {
+                "nombre": "Zamora-Chinchipe"
+            },
+            {
+                "nombre": "Sucumbíos"
+            },
+            {
+                "nombre": "Napo"
+            },
+            {
+                "nombre": "Orellana"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Egypt",
+        "nombre_es": "Egipto",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+20",
+        "codigo_2": "EG",
+        "codigo_3": "EGY",
+        "estados": [
+            {
+                "nombre": "Al QÃ„Â�hira"
+            },
+            {
+                "nombre": "Aswan"
+            },
+            {
+                "nombre": "Asyut"
+            },
+            {
+                "nombre": "Beni Suef"
+            },
+            {
+                "nombre": "Gharbia"
+            },
+            {
+                "nombre": "Damietta"
+            },
+            {
+                "nombre": "Egypt"
+            },
+            {
+                "nombre": "Sinai"
+            }
+        ]
+    },
+    {
+        "nombre_en": "El Salvador",
+        "nombre_es": "El Salvador",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+503",
+        "codigo_2": "SV",
+        "codigo_3": "SLV",
+        "estados": [
+            {
+                "nombre": "Ahuachapán"
+            },
+            {
+                "nombre": "Cuscatlán"
+            },
+            {
+                "nombre": "La Libertad"
+            },
+            {
+                "nombre": "La Paz"
+            },
+            {
+                "nombre": "La Unión"
+            },
+            {
+                "nombre": "San Miguel"
+            },
+            {
+                "nombre": "San Salvador"
+            },
+            {
+                "nombre": "Santa Ana"
+            },
+            {
+                "nombre": "Sonsonate"
+            }
+        ]
+    },
+    {
+        "nombre_en": "United Arab Emirates",
+        "nombre_es": "Emiratos Árabes Unidos",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+971",
+        "codigo_2": "AE",
+        "codigo_3": "ARE",
+        "estados": [
+            {
+                "nombre": "Dubai"
+            },
+            {
+                "nombre": "Sharjah"
+            },
+            {
+                "nombre": "Abu Dhabi"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Eritrea",
+        "nombre_es": "Eritrea",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+291",
+        "codigo_2": "ER",
+        "codigo_3": "ERI",
+        "estados": [
+            {
+                "nombre": "Eritrea"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Slovakia",
+        "nombre_es": "Eslovaquia",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+421",
+        "codigo_2": "SK",
+        "codigo_3": "SVK",
+        "estados": [
+            {
+                "nombre": "Banska Bystrica"
+            },
+            {
+                "nombre": "Bratislava"
+            },
+            {
+                "nombre": "Kosice"
+            },
+            {
+                "nombre": "Nitra"
+            },
+            {
+                "nombre": "Presov"
+            },
+            {
+                "nombre": "Trencin"
+            },
+            {
+                "nombre": "Trnava"
+            },
+            {
+                "nombre": "Zilina"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Slovenia",
+        "nombre_es": "Eslovenia",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+386",
+        "codigo_2": "SI",
+        "codigo_3": "SVN",
+        "estados": [
+            {
+                "nombre": "Beltinci"
+            },
+            {
+                "nombre": "Bohinj"
+            },
+            {
+                "nombre": "Borovnica"
+            },
+            {
+                "nombre": "Bovec"
+            },
+            {
+                "nombre": "Brda"
+            },
+            {
+                "nombre": "Brezice"
+            },
+            {
+                "nombre": "Brezovica"
+            },
+            {
+                "nombre": "Cerklje na Gorenjskem"
+            },
+            {
+                "nombre": "Cerkno"
+            },
+            {
+                "nombre": "Crna na Koroskem"
+            },
+            {
+                "nombre": "Crnomelj"
+            },
+            {
+                "nombre": "Divaca"
+            },
+            {
+                "nombre": "Dobrepolje"
+            },
+            {
+                "nombre": "Dol pri Ljubljani"
+            },
+            {
+                "nombre": "Duplek"
+            },
+            {
+                "nombre": "Gornji Grad"
+            },
+            {
+                "nombre": "Hrastnik"
+            },
+            {
+                "nombre": "Hrpelje-Kozina"
+            },
+            {
+                "nombre": "Idrija"
+            },
+            {
+                "nombre": "Ig"
+            },
+            {
+                "nombre": "Ilirska Bistrica"
+            },
+            {
+                "nombre": "Ivancna Gorica"
+            },
+            {
+                "nombre": "Komen"
+            },
+            {
+                "nombre": "Koper-Capodistria"
+            },
+            {
+                "nombre": "Kozje"
+            },
+            {
+                "nombre": "Kranj"
+            },
+            {
+                "nombre": "Kranjska Gora"
+            },
+            {
+                "nombre": "Krsko"
+            },
+            {
+                "nombre": "Lasko"
+            },
+            {
+                "nombre": "Ljubljana"
+            },
+            {
+                "nombre": "Ljubno"
+            },
+            {
+                "nombre": "Logatec"
+            },
+            {
+                "nombre": "Medvode"
+            },
+            {
+                "nombre": "Menges"
+            },
+            {
+                "nombre": "Mezica"
+            },
+            {
+                "nombre": "Moravce"
+            },
+            {
+                "nombre": "Mozirje"
+            },
+            {
+                "nombre": "Murska Sobota"
+            },
+            {
+                "nombre": "Nova Gorica"
+            },
+            {
+                "nombre": "Ormoz"
+            },
+            {
+                "nombre": "Pesnica"
+            },
+            {
+                "nombre": "Postojna"
+            },
+            {
+                "nombre": "Radece"
+            },
+            {
+                "nombre": "Radenci"
+            },
+            {
+                "nombre": "Radovljica"
+            },
+            {
+                "nombre": "Rogaska Slatina"
+            },
+            {
+                "nombre": "Sencur"
+            },
+            {
+                "nombre": "Sentilj"
+            },
+            {
+                "nombre": "Sevnica"
+            },
+            {
+                "nombre": "Sezana"
+            },
+            {
+                "nombre": "Skofja Loka"
+            },
+            {
+                "nombre": "Slovenj Gradec"
+            },
+            {
+                "nombre": "Slovenske Konjice"
+            },
+            {
+                "nombre": "Smarje pri Jelsah"
+            },
+            {
+                "nombre": "Tolmin"
+            },
+            {
+                "nombre": "Trbovlje"
+            },
+            {
+                "nombre": "Trzic"
+            },
+            {
+                "nombre": "Velenje"
+            },
+            {
+                "nombre": "Vipava"
+            },
+            {
+                "nombre": "Vrhnika"
+            },
+            {
+                "nombre": "Vuzenica"
+            },
+            {
+                "nombre": "Zagorje ob Savi"
+            },
+            {
+                "nombre": "Zelezniki"
+            },
+            {
+                "nombre": "Ziri"
+            },
+            {
+                "nombre": "Zrece"
+            },
+            {
+                "nombre": "Domzale"
+            },
+            {
+                "nombre": "Jesenice"
+            },
+            {
+                "nombre": "Kamnik"
+            },
+            {
+                "nombre": "Kocevje"
+            },
+            {
+                "nombre": "Lenart"
+            },
+            {
+                "nombre": "Litija"
+            },
+            {
+                "nombre": "Ljutomer"
+            },
+            {
+                "nombre": "Maribor"
+            },
+            {
+                "nombre": "Novo Mesto"
+            },
+            {
+                "nombre": "Piran"
+            },
+            {
+                "nombre": "Preddvor"
+            },
+            {
+                "nombre": "Ptuj"
+            },
+            {
+                "nombre": "Ribnica"
+            },
+            {
+                "nombre": "Sentjur pri Celju"
+            },
+            {
+                "nombre": "Slovenska Bistrica"
+            },
+            {
+                "nombre": "Videm"
+            },
+            {
+                "nombre": "Zalec"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Spain",
+        "nombre_es": "España",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+34",
+        "codigo_2": "ES",
+        "codigo_3": "ESP",
+        "estados": [
+            {
+                "nombre": "Las Palmas"
+            },
+            {
+                "nombre": "Soria"
+            },
+            {
+                "nombre": "Palencia"
+            },
+            {
+                "nombre": "Zamora"
+            },
+            {
+                "nombre": "Cádiz"
+            },
+            {
+                "nombre": "Navarra"
+            },
+            {
+                "nombre": "Ourense"
+            },
+            {
+                "nombre": "Segovia"
+            },
+            {
+                "nombre": "Guipúzcoa"
+            },
+            {
+                "nombre": "Ciudad Real"
+            },
+            {
+                "nombre": "Vizcaya"
+            },
+            {
+                "nombre": "Álava"
+            },
+            {
+                "nombre": "A Coruña"
+            },
+            {
+                "nombre": "Cantabria"
+            },
+            {
+                "nombre": "Almería"
+            },
+            {
+                "nombre": "Zaragoza"
+            },
+            {
+                "nombre": "Santa Cruz de Tenerife"
+            },
+            {
+                "nombre": "Cáceres"
+            },
+            {
+                "nombre": "Guadalajara"
+            },
+            {
+                "nombre": "Ávila"
+            },
+            {
+                "nombre": "Toledo"
+            },
+            {
+                "nombre": "Castellón"
+            },
+            {
+                "nombre": "Tarragona"
+            },
+            {
+                "nombre": "Lugo"
+            },
+            {
+                "nombre": "La Rioja"
+            },
+            {
+                "nombre": "Ceuta"
+            },
+            {
+                "nombre": "Murcia"
+            },
+            {
+                "nombre": "Salamanca"
+            },
+            {
+                "nombre": "Valladolid"
+            },
+            {
+                "nombre": "Jaén"
+            },
+            {
+                "nombre": "Girona"
+            },
+            {
+                "nombre": "Granada"
+            },
+            {
+                "nombre": "Alacant"
+            },
+            {
+                "nombre": "Córdoba"
+            },
+            {
+                "nombre": "Albacete"
+            },
+            {
+                "nombre": "Cuenca"
+            },
+            {
+                "nombre": "Pontevedra"
+            },
+            {
+                "nombre": "Teruel"
+            },
+            {
+                "nombre": "Melilla"
+            },
+            {
+                "nombre": "Barcelona"
+            },
+            {
+                "nombre": "Badajoz"
+            },
+            {
+                "nombre": "Madrid"
+            },
+            {
+                "nombre": "Sevilla"
+            },
+            {
+                "nombre": "València"
+            },
+            {
+                "nombre": "Huelva"
+            },
+            {
+                "nombre": "Lleida"
+            },
+            {
+                "nombre": "León"
+            },
+            {
+                "nombre": "Illes Balears"
+            },
+            {
+                "nombre": "Burgos"
+            },
+            {
+                "nombre": "Huesca"
+            },
+            {
+                "nombre": "Asturias"
+            },
+            {
+                "nombre": "Málaga"
+            }
+        ]
+    },
+    {
+        "nombre_en": "United States",
+        "nombre_es": "Estados Unidos",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+1",
+        "codigo_2": "US",
+        "codigo_3": "USA",
+        "estados": [
+            {
+                "nombre": "Armed Forces Americas"
+            },
+            {
+                "nombre": "Armed Forces Europe"
+            },
+            {
+                "nombre": "Alaska"
+            },
+            {
+                "nombre": "Alabama"
+            },
+            {
+                "nombre": "Armed Forces Pacific"
+            },
+            {
+                "nombre": "Arkansas"
+            },
+            {
+                "nombre": "American Samoa"
+            },
+            {
+                "nombre": "Arizona"
+            },
+            {
+                "nombre": "California"
+            },
+            {
+                "nombre": "Colorado"
+            },
+            {
+                "nombre": "Connecticut"
+            },
+            {
+                "nombre": "District of Columbia"
+            },
+            {
+                "nombre": "Delaware"
+            },
+            {
+                "nombre": "Florida"
+            },
+            {
+                "nombre": "Federated States of Micronesia"
+            },
+            {
+                "nombre": "Georgia"
+            },
+            {
+                "nombre": "Hawaii"
+            },
+            {
+                "nombre": "Iowa"
+            },
+            {
+                "nombre": "Idaho"
+            },
+            {
+                "nombre": "Illinois"
+            },
+            {
+                "nombre": "Indiana"
+            },
+            {
+                "nombre": "Kansas"
+            },
+            {
+                "nombre": "Kentucky"
+            },
+            {
+                "nombre": "Louisiana"
+            },
+            {
+                "nombre": "Massachusetts"
+            },
+            {
+                "nombre": "Maryland"
+            },
+            {
+                "nombre": "Maine"
+            },
+            {
+                "nombre": "Marshall Islands"
+            },
+            {
+                "nombre": "Michigan"
+            },
+            {
+                "nombre": "Minnesota"
+            },
+            {
+                "nombre": "Missouri"
+            },
+            {
+                "nombre": "Northern Mariana Islands"
+            },
+            {
+                "nombre": "Mississippi"
+            },
+            {
+                "nombre": "Montana"
+            },
+            {
+                "nombre": "North Carolina"
+            },
+            {
+                "nombre": "North Dakota"
+            },
+            {
+                "nombre": "Nebraska"
+            },
+            {
+                "nombre": "New Hampshire"
+            },
+            {
+                "nombre": "New Jersey"
+            },
+            {
+                "nombre": "New Mexico"
+            },
+            {
+                "nombre": "Nevada"
+            },
+            {
+                "nombre": "New York"
+            },
+            {
+                "nombre": "Ohio"
+            },
+            {
+                "nombre": "Oklahoma"
+            },
+            {
+                "nombre": "Oregon"
+            },
+            {
+                "nombre": "Pennsylvania"
+            },
+            {
+                "nombre": "Palau"
+            },
+            {
+                "nombre": "Rhode Island"
+            },
+            {
+                "nombre": "South Carolina"
+            },
+            {
+                "nombre": "South Dakota"
+            },
+            {
+                "nombre": "Tennessee"
+            },
+            {
+                "nombre": "Texas"
+            },
+            {
+                "nombre": "Utah"
+            },
+            {
+                "nombre": "Virginia"
+            },
+            {
+                "nombre": "Virgin Islands"
+            },
+            {
+                "nombre": "Vermont"
+            },
+            {
+                "nombre": "Washington"
+            },
+            {
+                "nombre": "West Virginia"
+            },
+            {
+                "nombre": "Wisconsin"
+            },
+            {
+                "nombre": "Wyoming"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Estonia",
+        "nombre_es": "Estonia",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+372",
+        "codigo_2": "EE",
+        "codigo_3": "EST",
+        "estados": [
+            {
+                "nombre": "Estoniya"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Ethiopia",
+        "nombre_es": "Etiopía",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+251",
+        "codigo_2": "ET",
+        "codigo_3": "ETH",
+        "estados": [
+            {
+                "nombre": "Ethiopia"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Philippines",
+        "nombre_es": "Filipinas",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+63",
+        "codigo_2": "PH",
+        "codigo_3": "PHL",
+        "estados": [
+            {
+                "nombre": "Philippines"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Finland",
+        "nombre_es": "Finlandia",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+358",
+        "codigo_2": "FI",
+        "codigo_3": "FIN",
+        "estados": [
+            {
+                "nombre": "Ð•land"
+            },
+            {
+                "nombre": "Lapland"
+            },
+            {
+                "nombre": "Oulu"
+            },
+            {
+                "nombre": "Southern Finland"
+            },
+            {
+                "nombre": "Eastern Finland"
+            },
+            {
+                "nombre": "Western Finland"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Fiji",
+        "nombre_es": "Fiyi",
+        "continente_en": "Oceania",
+        "continente_es": "Oceanía",
+        "codigo_internacional": "+679",
+        "codigo_2": "FJ",
+        "codigo_3": "FJI",
+        "estados": [
+            {
+                "nombre": "Fiji"
+            }
+        ]
+    },
+    {
+        "nombre_en": "France",
+        "nombre_es": "Francia",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+33",
+        "codigo_2": "FR",
+        "codigo_3": "FRA",
+        "estados": [
+            {
+                "nombre": "Ain"
+            },
+            {
+                "nombre": "Haute-Savoie"
+            },
+            {
+                "nombre": "Aisne"
+            },
+            {
+                "nombre": "Allier"
+            },
+            {
+                "nombre": "Alpes-de-Haute-Provence"
+            },
+            {
+                "nombre": "Hautes-Alpes"
+            },
+            {
+                "nombre": "Alpes-Maritimes"
+            },
+            {
+                "nombre": "Ardèche"
+            },
+            {
+                "nombre": "Ardennes"
+            },
+            {
+                "nombre": "Ariège"
+            },
+            {
+                "nombre": "Aube"
+            },
+            {
+                "nombre": "Aude"
+            },
+            {
+                "nombre": "Aveyron"
+            },
+            {
+                "nombre": "Bouches-du-Rhône"
+            },
+            {
+                "nombre": "Calvados"
+            },
+            {
+                "nombre": "Cantal"
+            },
+            {
+                "nombre": "Charente"
+            },
+            {
+                "nombre": "Charente Maritime"
+            },
+            {
+                "nombre": "Cher"
+            },
+            {
+                "nombre": "Corrèze"
+            },
+            {
+                "nombre": "Dordogne"
+            },
+            {
+                "nombre": "Corse"
+            },
+            {
+                "nombre": "Côte dOr"
+            },
+            {
+                "nombre": "Saône et Loire"
+            },
+            {
+                "nombre": "Côtes dArmor"
+            },
+            {
+                "nombre": "Creuse"
+            },
+            {
+                "nombre": "Doubs"
+            },
+            {
+                "nombre": "Drôme"
+            },
+            {
+                "nombre": "Eure"
+            },
+            {
+                "nombre": "Eure-et-Loire"
+            },
+            {
+                "nombre": "Finistère"
+            },
+            {
+                "nombre": "Gard"
+            },
+            {
+                "nombre": "Haute-Garonne"
+            },
+            {
+                "nombre": "Gers"
+            },
+            {
+                "nombre": "Gironde"
+            },
+            {
+                "nombre": "Hérault"
+            },
+            {
+                "nombre": "Ille et Vilaine"
+            },
+            {
+                "nombre": "Indre"
+            },
+            {
+                "nombre": "Indre-et-Loire"
+            },
+            {
+                "nombre": "Isère"
+            },
+            {
+                "nombre": "Jura"
+            },
+            {
+                "nombre": "Landes"
+            },
+            {
+                "nombre": "Loir-et-Cher"
+            },
+            {
+                "nombre": "Loire"
+            },
+            {
+                "nombre": "Rhône"
+            },
+            {
+                "nombre": "Haute-Loire"
+            },
+            {
+                "nombre": "Loire Atlantique"
+            },
+            {
+                "nombre": "Loiret"
+            },
+            {
+                "nombre": "Lot"
+            },
+            {
+                "nombre": "Lot-et-Garonne"
+            },
+            {
+                "nombre": "Lozère"
+            },
+            {
+                "nombre": "Maine et Loire"
+            },
+            {
+                "nombre": "Manche"
+            },
+            {
+                "nombre": "Marne"
+            },
+            {
+                "nombre": "Haute-Marne"
+            },
+            {
+                "nombre": "Mayenne"
+            },
+            {
+                "nombre": "Meurthe-et-Moselle"
+            },
+            {
+                "nombre": "Meuse"
+            },
+            {
+                "nombre": "Morbihan"
+            },
+            {
+                "nombre": "Moselle"
+            },
+            {
+                "nombre": "Nièvre"
+            },
+            {
+                "nombre": "Nord"
+            },
+            {
+                "nombre": "Oise"
+            },
+            {
+                "nombre": "Orne"
+            },
+            {
+                "nombre": "Pas-de-Calais"
+            },
+            {
+                "nombre": "Puy-de-Dôme"
+            },
+            {
+                "nombre": "Pyrénées-Atlantiques"
+            },
+            {
+                "nombre": "Hautes-Pyrénées"
+            },
+            {
+                "nombre": "Pyrénées-Orientales"
+            },
+            {
+                "nombre": "Bas Rhin"
+            },
+            {
+                "nombre": "Haut Rhin"
+            },
+            {
+                "nombre": "Haute-Saône"
+            },
+            {
+                "nombre": "Sarthe"
+            },
+            {
+                "nombre": "Savoie"
+            },
+            {
+                "nombre": "Paris"
+            },
+            {
+                "nombre": "Seine-Maritime"
+            },
+            {
+                "nombre": "Seine-et-Marne"
+            },
+            {
+                "nombre": "Yvelines"
+            },
+            {
+                "nombre": "Deux-Sèvres"
+            },
+            {
+                "nombre": "Somme"
+            },
+            {
+                "nombre": "Tarn"
+            },
+            {
+                "nombre": "Tarn-et-Garonne"
+            },
+            {
+                "nombre": "Var"
+            },
+            {
+                "nombre": "Vaucluse"
+            },
+            {
+                "nombre": "Vendée"
+            },
+            {
+                "nombre": "Vienne"
+            },
+            {
+                "nombre": "Haute-Vienne"
+            },
+            {
+                "nombre": "Vosges"
+            },
+            {
+                "nombre": "Yonne"
+            },
+            {
+                "nombre": "Territoire de Belfort"
+            },
+            {
+                "nombre": "Essonne"
+            },
+            {
+                "nombre": "Hauts-de-Seine"
+            },
+            {
+                "nombre": "Seine-Saint-Denis"
+            },
+            {
+                "nombre": "Val-de-Marne"
+            },
+            {
+                "nombre": "Val-dOise"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Gabon",
+        "nombre_es": "Gabón",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+241",
+        "codigo_2": "GA",
+        "codigo_3": "GAB",
+        "estados": [
+            {
+                "nombre": "Gabon"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Gambia",
+        "nombre_es": "Gambia",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+220",
+        "codigo_2": "GM",
+        "codigo_3": "GMB",
+        "estados": [
+            {
+                "nombre": "Gambia"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Georgia",
+        "nombre_es": "Georgia",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+995",
+        "codigo_2": "GE",
+        "codigo_3": "GEO",
+        "estados": [
+            {
+                "nombre": "Abkhazia"
+            },
+            {
+                "nombre": "Ajaria"
+            },
+            {
+                "nombre": "Georgia"
+            },
+            {
+                "nombre": "South Ossetia"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Ghana",
+        "nombre_es": "Ghana",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+233",
+        "codigo_2": "GH",
+        "codigo_3": "GHA",
+        "estados": [
+            {
+                "nombre": "Ghana"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Gibraltar",
+        "nombre_es": "Gibraltar",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+350",
+        "codigo_2": "GI",
+        "codigo_3": "GIB",
+        "estados": [
+            {
+                "nombre": "Gibraltar"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Grenada",
+        "nombre_es": "Granada",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+1473",
+        "codigo_2": "GD",
+        "codigo_3": "GRD",
+        "estados": [
+            {
+                "nombre": "St Georges"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Greece",
+        "nombre_es": "Grecia",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+30",
+        "codigo_2": "GR",
+        "codigo_3": "GRC",
+        "estados": [
+            {
+                "nombre": "Evros"
+            },
+            {
+                "nombre": "Rodhopi"
+            },
+            {
+                "nombre": "Xanthi"
+            },
+            {
+                "nombre": "Drama"
+            },
+            {
+                "nombre": "Serrai"
+            },
+            {
+                "nombre": "Kilkis"
+            },
+            {
+                "nombre": "Pella"
+            },
+            {
+                "nombre": "Florina"
+            },
+            {
+                "nombre": "Kastoria"
+            },
+            {
+                "nombre": "Grevena"
+            },
+            {
+                "nombre": "Kozani"
+            },
+            {
+                "nombre": "Imathia"
+            },
+            {
+                "nombre": "Thessaloniki"
+            },
+            {
+                "nombre": "Kavala"
+            },
+            {
+                "nombre": "Khalkidhiki"
+            },
+            {
+                "nombre": "Pieria"
+            },
+            {
+                "nombre": "Ioannina"
+            },
+            {
+                "nombre": "Thesprotia"
+            },
+            {
+                "nombre": "Preveza"
+            },
+            {
+                "nombre": "Arta"
+            },
+            {
+                "nombre": "Larisa"
+            },
+            {
+                "nombre": "Trikala"
+            },
+            {
+                "nombre": "Kardhitsa"
+            },
+            {
+                "nombre": "Magnisia"
+            },
+            {
+                "nombre": "Kerkira"
+            },
+            {
+                "nombre": "Levkas"
+            },
+            {
+                "nombre": "Kefallinia"
+            },
+            {
+                "nombre": "Zakinthos"
+            },
+            {
+                "nombre": "Fthiotis"
+            },
+            {
+                "nombre": "Evritania"
+            },
+            {
+                "nombre": "Aitolia kai Akarnania"
+            },
+            {
+                "nombre": "Fokis"
+            },
+            {
+                "nombre": "Voiotia"
+            },
+            {
+                "nombre": "Evvoia"
+            },
+            {
+                "nombre": "Attiki"
+            },
+            {
+                "nombre": "Argolis"
+            },
+            {
+                "nombre": "Korinthia"
+            },
+            {
+                "nombre": "Akhaia"
+            },
+            {
+                "nombre": "Ilia"
+            },
+            {
+                "nombre": "Messinia"
+            },
+            {
+                "nombre": "Arkadhia"
+            },
+            {
+                "nombre": "Lakonia"
+            },
+            {
+                "nombre": "Khania"
+            },
+            {
+                "nombre": "Rethimni"
+            },
+            {
+                "nombre": "Iraklion"
+            },
+            {
+                "nombre": "Lasithi"
+            },
+            {
+                "nombre": "Dhodhekanisos"
+            },
+            {
+                "nombre": "Samos"
+            },
+            {
+                "nombre": "Kikladhes"
+            },
+            {
+                "nombre": "Khios"
+            },
+            {
+                "nombre": "Lesvos"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Greenland",
+        "nombre_es": "Groenlandia",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+299",
+        "codigo_2": "GL",
+        "codigo_3": "GRL",
+        "estados": [
+            {
+                "nombre": "Greenland"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Guadeloupe",
+        "nombre_es": "Guadalupe",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+590",
+        "codigo_2": "GP",
+        "codigo_3": "GLP",
+        "estados": [
+            {
+                "nombre": "Grande-Terre"
+            },
+            {
+                "nombre": "Basse-Terre"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Guatemala",
+        "nombre_es": "Guatemala",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+502",
+        "codigo_2": "GT",
+        "codigo_3": "GTM",
+        "estados": [
+            {
+                "nombre": "Alta Verapaz"
+            },
+            {
+                "nombre": "Baja Verapaz"
+            },
+            {
+                "nombre": "Chimaltenango"
+            },
+            {
+                "nombre": "Chiquimula"
+            },
+            {
+                "nombre": "El Progreso"
+            },
+            {
+                "nombre": "Escuintla"
+            },
+            {
+                "nombre": "Guatemala"
+            },
+            {
+                "nombre": "Huehuetenango"
+            },
+            {
+                "nombre": "Izabal"
+            },
+            {
+                "nombre": "Jalapa"
+            },
+            {
+                "nombre": "Jutiapa"
+            },
+            {
+                "nombre": "Petén"
+            },
+            {
+                "nombre": "Quetzaltenango"
+            },
+            {
+                "nombre": "Quiché"
+            },
+            {
+                "nombre": "Retalhuleu"
+            },
+            {
+                "nombre": "Sacatepéquez"
+            },
+            {
+                "nombre": "San Marcos"
+            },
+            {
+                "nombre": "Santa Rosa"
+            },
+            {
+                "nombre": "Sololá"
+            },
+            {
+                "nombre": "Suchitepequez"
+            },
+            {
+                "nombre": "Totonicapán"
+            },
+            {
+                "nombre": "Zacapa"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Guernsey",
+        "nombre_es": "Guernsey",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+44",
+        "codigo_2": "GG",
+        "codigo_3": "GGY",
+        "estados": [
+            {
+                "nombre": "St Peter Port"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Guinea",
+        "nombre_es": "Guinea",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+224",
+        "codigo_2": "GN",
+        "codigo_3": "GIN",
+        "estados": [
+            {
+                "nombre": "Guinea"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Equatorial Guinea",
+        "nombre_es": "Guinea Ecuatorial",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+240",
+        "codigo_2": "GQ",
+        "codigo_3": "GNQ",
+        "estados": [
+            {
+                "nombre": "Malabo"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Guinea",
+        "nombre_es": "Guinea",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+224",
+        "codigo_2": "GN",
+        "codigo_3": "GIN",
+        "estados": [
+            {
+                "nombre": "Bissau"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Guyana",
+        "nombre_es": "Guyana",
+        "continente_en": "South America",
+        "continente_es": "América del Sur",
+        "codigo_internacional": "+592",
+        "codigo_2": "GY",
+        "codigo_3": "GUY",
+        "estados": [
+            {
+                "nombre": "Guyana"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Haiti",
+        "nombre_es": "Haití",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+509",
+        "codigo_2": "HT",
+        "codigo_3": "HTI",
+        "estados": [
+            {
+                "nombre": "Artibonite"
+            },
+            {
+                "nombre": "GrandAnse"
+            },
+            {
+                "nombre": "North West"
+            },
+            {
+                "nombre": "West"
+            },
+            {
+                "nombre": "South"
+            },
+            {
+                "nombre": "South East"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Honduras",
+        "nombre_es": "Honduras",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+504",
+        "codigo_2": "HN",
+        "codigo_3": "HND",
+        "estados": [
+            {
+                "nombre": "Tegucigalpa"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Hong Kong",
+        "nombre_es": "Hong Kong",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+852",
+        "codigo_2": "HK",
+        "codigo_3": "HKG",
+        "estados": [
+            {
+                "nombre": "Hong Kong"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Hungary",
+        "nombre_es": "Hungría",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+36",
+        "codigo_2": "HU",
+        "codigo_3": "HUN",
+        "estados": [
+            {
+                "nombre": "Bacs-Kiskun"
+            },
+            {
+                "nombre": "Baranya"
+            },
+            {
+                "nombre": "Bekes"
+            },
+            {
+                "nombre": "Borsod-Abauj-Zemplen"
+            },
+            {
+                "nombre": "Budapest"
+            },
+            {
+                "nombre": "Csongrad"
+            },
+            {
+                "nombre": "Debrecen"
+            },
+            {
+                "nombre": "Fejer"
+            },
+            {
+                "nombre": "Gyor-Moson-Sopron"
+            },
+            {
+                "nombre": "Hajdu-Bihar"
+            },
+            {
+                "nombre": "Heves"
+            },
+            {
+                "nombre": "Komarom-Esztergom"
+            },
+            {
+                "nombre": "Miskolc"
+            },
+            {
+                "nombre": "Nograd"
+            },
+            {
+                "nombre": "Pecs"
+            },
+            {
+                "nombre": "Pest"
+            },
+            {
+                "nombre": "Somogy"
+            },
+            {
+                "nombre": "Szabolcs-Szatmar-Bereg"
+            },
+            {
+                "nombre": "Szeged"
+            },
+            {
+                "nombre": "Jasz-Nagykun-Szolnok"
+            },
+            {
+                "nombre": "Tolna"
+            },
+            {
+                "nombre": "Vas"
+            },
+            {
+                "nombre": "Veszprem"
+            },
+            {
+                "nombre": "Zala"
+            },
+            {
+                "nombre": "Gyor"
+            },
+            {
+                "nombre": "Veszprem"
+            }
+        ]
+    },
+    {
+        "nombre_en": "India",
+        "nombre_es": "India",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+91",
+        "codigo_2": "IN",
+        "codigo_3": "IND",
+        "estados": [
+            {
+                "nombre": "Bangala"
+            },
+            {
+                "nombre": "Chhattisgarh"
+            },
+            {
+                "nombre": "Karnataka"
+            },
+            {
+                "nombre": "Uttaranchal"
+            },
+            {
+                "nombre": "Andhara Pradesh"
+            },
+            {
+                "nombre": "Assam"
+            },
+            {
+                "nombre": "Bihar"
+            },
+            {
+                "nombre": "Gujarat"
+            },
+            {
+                "nombre": "Jammu and Kashmir"
+            },
+            {
+                "nombre": "Kerala"
+            },
+            {
+                "nombre": "Madhya Pradesh"
+            },
+            {
+                "nombre": "Manipur"
+            },
+            {
+                "nombre": "Maharashtra"
+            },
+            {
+                "nombre": "Megahalaya"
+            },
+            {
+                "nombre": "Orissa"
+            },
+            {
+                "nombre": "Punjab"
+            },
+            {
+                "nombre": "Pondisheri"
+            },
+            {
+                "nombre": "Rajasthan"
+            },
+            {
+                "nombre": "Tamil Nadu"
+            },
+            {
+                "nombre": "Tripura"
+            },
+            {
+                "nombre": "Uttar Pradesh"
+            },
+            {
+                "nombre": "Haryana"
+            },
+            {
+                "nombre": "Chandigarh"
+            },
+            {
+                "nombre": "India"
+            },
+            {
+                "nombre": "Delhi"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Indonesia",
+        "nombre_es": "Indonesia",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+62",
+        "codigo_2": "ID",
+        "codigo_3": "IDN",
+        "estados": [
+            {
+                "nombre": "Indonesia"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Iraq",
+        "nombre_es": "Irak",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+964",
+        "codigo_2": "IQ",
+        "codigo_3": "IRQ",
+        "estados": [
+            {
+                "nombre": "Baghdad"
+            },
+            {
+                "nombre": "Basra"
+            },
+            {
+                "nombre": "Mosul"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Ireland",
+        "nombre_es": "Irlanda",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+353",
+        "codigo_2": "IE",
+        "codigo_3": "IRL",
+        "estados": [
+            {
+                "nombre": "Dublin"
+            },
+            {
+                "nombre": "Galway"
+            },
+            {
+                "nombre": "Kildare"
+            },
+            {
+                "nombre": "Leitrim"
+            },
+            {
+                "nombre": "Limerick"
+            },
+            {
+                "nombre": "Mayo"
+            },
+            {
+                "nombre": "Meath"
+            },
+            {
+                "nombre": "Carlow"
+            },
+            {
+                "nombre": "Kilkenny"
+            },
+            {
+                "nombre": "Laois"
+            },
+            {
+                "nombre": "Longford"
+            },
+            {
+                "nombre": "Louth"
+            },
+            {
+                "nombre": "Offaly"
+            },
+            {
+                "nombre": "Westmeath"
+            },
+            {
+                "nombre": "Wexford"
+            },
+            {
+                "nombre": "Wicklow"
+            },
+            {
+                "nombre": "Roscommon"
+            },
+            {
+                "nombre": "Sligo"
+            },
+            {
+                "nombre": "Clare"
+            },
+            {
+                "nombre": "Cork"
+            },
+            {
+                "nombre": "Kerry"
+            },
+            {
+                "nombre": "Tipperary"
+            },
+            {
+                "nombre": "Waterford"
+            },
+            {
+                "nombre": "Cavan"
+            },
+            {
+                "nombre": "Donegal"
+            },
+            {
+                "nombre": "Monaghan"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Pitcairn",
+        "nombre_es": "Islas Pitcairn",
+        "continente_en": "Oceania",
+        "continente_es": "Oceanía",
+        "codigo_internacional": "+64",
+        "codigo_2": "PN",
+        "codigo_3": "PCN",
+        "estados": [
+            {
+                "nombre": "Adamstown"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Iceland",
+        "nombre_es": "Islandia",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+354",
+        "codigo_2": "IS",
+        "codigo_3": "ISL",
+        "estados": [
+            {
+                "nombre": "Akureyri"
+            },
+            {
+                "nombre": "Arnessysla"
+            },
+            {
+                "nombre": "Austur-Bardastrandarsysla"
+            },
+            {
+                "nombre": "Austur-Hunavatnssysla"
+            },
+            {
+                "nombre": "Austur-Skaftafellssysla"
+            },
+            {
+                "nombre": "Borgarfjardarsysla"
+            },
+            {
+                "nombre": "Dalasysla"
+            },
+            {
+                "nombre": "Eyjafjardarsysla"
+            },
+            {
+                "nombre": "Gullbringusysla"
+            },
+            {
+                "nombre": "Hafnarfjordur"
+            },
+            {
+                "nombre": "Kjosarsysla"
+            },
+            {
+                "nombre": "Kopavogur"
+            },
+            {
+                "nombre": "Myrasysla"
+            },
+            {
+                "nombre": "Neskaupstadur"
+            },
+            {
+                "nombre": "Nordur-Isafjardarsysla"
+            },
+            {
+                "nombre": "Nordur-Mulasysla"
+            },
+            {
+                "nombre": "Nordur-Tingeyjarsysla"
+            },
+            {
+                "nombre": "Olafsfjordur"
+            },
+            {
+                "nombre": "Rangarvallasysla"
+            },
+            {
+                "nombre": "Reykjavik"
+            },
+            {
+                "nombre": "Saudarkrokur"
+            },
+            {
+                "nombre": "Seydisfjordur"
+            },
+            {
+                "nombre": "Skagafjardarsysla"
+            },
+            {
+                "nombre": "Snafellsnes- og Hnappadalssysla"
+            },
+            {
+                "nombre": "Strandasysla"
+            },
+            {
+                "nombre": "Sudur-Mulasysla"
+            },
+            {
+                "nombre": "Sudur-Tingeyjarsysla"
+            },
+            {
+                "nombre": "Vestmannaeyjar"
+            },
+            {
+                "nombre": "Vestur-Bardastrandarsysla"
+            },
+            {
+                "nombre": "Vestur-Isafjardarsysla"
+            },
+            {
+                "nombre": "Vestur-Skaftafellssysla"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Solomon Islands",
+        "nombre_es": "Islas Salomón",
+        "continente_en": "Oceania",
+        "continente_es": "Oceanía",
+        "codigo_internacional": "+677",
+        "codigo_2": "SB",
+        "codigo_3": "SLB",
+        "estados": [
+            {
+                "nombre": "Solomon Islands"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Turks and Caicos Islands",
+        "nombre_es": "Islas Turcas y Caicos",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+1649",
+        "codigo_2": "TC",
+        "codigo_3": "TCA",
+        "estados": [
+            {
+                "nombre": "Grand Turk"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Israel",
+        "nombre_es": "Israel",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+972",
+        "codigo_2": "IL",
+        "codigo_3": "ISR",
+        "estados": [
+            {
+                "nombre": "Southern District"
+            },
+            {
+                "nombre": "Central District"
+            },
+            {
+                "nombre": "Northern District"
+            },
+            {
+                "nombre": "Haifa"
+            },
+            {
+                "nombre": "Tel Aviv"
+            },
+            {
+                "nombre": "Jerusalem"
+            },
+            {
+                "nombre": "Ramat Hagolan"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Italy",
+        "nombre_es": "Italia",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+39",
+        "codigo_2": "IT",
+        "codigo_3": "ITA",
+        "estados": [
+            {
+                "nombre": "Piemonte - Torino"
+            },
+            {
+                "nombre": "Piemonte - Alessandria"
+            },
+            {
+                "nombre": "Piemonte - Asti"
+            },
+            {
+                "nombre": "Piemonte - Biella"
+            },
+            {
+                "nombre": "Piemonte - Cuneo"
+            },
+            {
+                "nombre": "Piemonte - Novara"
+            },
+            {
+                "nombre": "Piemonte - Verbania"
+            },
+            {
+                "nombre": "Piemonte - Vercelli"
+            },
+            {
+                "nombre": "Valle dAosta - Aosta"
+            },
+            {
+                "nombre": "Lombardia - Milano"
+            },
+            {
+                "nombre": "Lombardia - Bergamo"
+            },
+            {
+                "nombre": "Lombardia - Brescia"
+            },
+            {
+                "nombre": "Lombardia - Como"
+            },
+            {
+                "nombre": "Lombardia - Cremona"
+            },
+            {
+                "nombre": "Lombardia - Lecco"
+            },
+            {
+                "nombre": "Lombardia - Lodi"
+            },
+            {
+                "nombre": "Lombardia - Mantova"
+            },
+            {
+                "nombre": "Lombardia - Pavia"
+            },
+            {
+                "nombre": "Lombardia - Sondrio"
+            },
+            {
+                "nombre": "Lombardia - Varese"
+            },
+            {
+                "nombre": "Trentino Alto Adige - Trento"
+            },
+            {
+                "nombre": "Trentino Alto Adige - Bolzano"
+            },
+            {
+                "nombre": "Veneto - Venezia"
+            },
+            {
+                "nombre": "Veneto - Belluno"
+            },
+            {
+                "nombre": "Veneto - Padova"
+            },
+            {
+                "nombre": "Veneto - Rovigo"
+            },
+            {
+                "nombre": "Veneto - Treviso"
+            },
+            {
+                "nombre": "Veneto - Verona"
+            },
+            {
+                "nombre": "Veneto - Vicenza"
+            },
+            {
+                "nombre": "Friuli Venezia Giulia - Trieste"
+            },
+            {
+                "nombre": "Friuli Venezia Giulia - Gorizia"
+            },
+            {
+                "nombre": "Friuli Venezia Giulia - Pordenone"
+            },
+            {
+                "nombre": "Friuli Venezia Giulia - Udine"
+            },
+            {
+                "nombre": "Liguria - Genova"
+            },
+            {
+                "nombre": "Liguria - Imperia"
+            },
+            {
+                "nombre": "Liguria - La Spezia"
+            },
+            {
+                "nombre": "Liguria - Savona"
+            },
+            {
+                "nombre": "Emilia Romagna - Bologna"
+            },
+            {
+                "nombre": "Emilia Romagna - Ferrara"
+            },
+            {
+                "nombre": "Emilia Romagna - Forlì-Cesena"
+            },
+            {
+                "nombre": "Emilia Romagna - Modena"
+            },
+            {
+                "nombre": "Emilia Romagna - Parma"
+            },
+            {
+                "nombre": "Emilia Romagna - Piacenza"
+            },
+            {
+                "nombre": "Emilia Romagna - Ravenna"
+            },
+            {
+                "nombre": "Emilia Romagna - Reggio Emilia"
+            },
+            {
+                "nombre": "Emilia Romagna - Rimini"
+            },
+            {
+                "nombre": "Toscana - Firenze"
+            },
+            {
+                "nombre": "Toscana - Arezzo"
+            },
+            {
+                "nombre": "Toscana - Grosseto"
+            },
+            {
+                "nombre": "Toscana - Livorno"
+            },
+            {
+                "nombre": "Toscana - Lucca"
+            },
+            {
+                "nombre": "Toscana - Massa Carrara"
+            },
+            {
+                "nombre": "Toscana - Pisa"
+            },
+            {
+                "nombre": "Toscana - Pistoia"
+            },
+            {
+                "nombre": "Toscana - Prato"
+            },
+            {
+                "nombre": "Toscana - Siena"
+            },
+            {
+                "nombre": "Umbria - Perugia"
+            },
+            {
+                "nombre": "Umbria - Terni"
+            },
+            {
+                "nombre": "Marche - Ancona"
+            },
+            {
+                "nombre": "Marche - Ascoli Piceno"
+            },
+            {
+                "nombre": "Marche - Macerata"
+            },
+            {
+                "nombre": "Marche - Pesaro - Urbino"
+            },
+            {
+                "nombre": "Lazio - Roma"
+            },
+            {
+                "nombre": "Lazio - Frosinone"
+            },
+            {
+                "nombre": "Lazio - Latina"
+            },
+            {
+                "nombre": "Lazio - Rieti"
+            },
+            {
+                "nombre": "Lazio - Viterbo"
+            },
+            {
+                "nombre": "Abruzzo - LAquila"
+            },
+            {
+                "nombre": "Abruzzo - Chieti"
+            },
+            {
+                "nombre": "Abruzzo - Pescara"
+            },
+            {
+                "nombre": "Abruzzo - Teramo"
+            },
+            {
+                "nombre": "Molise - Campobasso"
+            },
+            {
+                "nombre": "Molise - Isernia"
+            },
+            {
+                "nombre": "Campania - Napoli"
+            },
+            {
+                "nombre": "Campania - Avellino"
+            },
+            {
+                "nombre": "Campania - Benevento"
+            },
+            {
+                "nombre": "Campania - Caserta"
+            },
+            {
+                "nombre": "Campania - Salerno"
+            },
+            {
+                "nombre": "Puglia - Bari"
+            },
+            {
+                "nombre": "Puglia - Brindisi"
+            },
+            {
+                "nombre": "Puglia - Foggia"
+            },
+            {
+                "nombre": "Puglia - Lecce"
+            },
+            {
+                "nombre": "Puglia - Taranto"
+            },
+            {
+                "nombre": "Basilicata - Potenza"
+            },
+            {
+                "nombre": "Basilicata - Matera"
+            },
+            {
+                "nombre": "Calabria - Catanzaro"
+            },
+            {
+                "nombre": "Calabria - Cosenza"
+            },
+            {
+                "nombre": "Calabria - Crotone"
+            },
+            {
+                "nombre": "Calabria - Reggio Calabria"
+            },
+            {
+                "nombre": "Calabria - Vibo Valentia"
+            },
+            {
+                "nombre": "Sicilia - Palermo"
+            },
+            {
+                "nombre": "Sicilia - Agrigento"
+            },
+            {
+                "nombre": "Sicilia - Caltanissetta"
+            },
+            {
+                "nombre": "Sicilia - Catania"
+            },
+            {
+                "nombre": "Sicilia - Enna"
+            },
+            {
+                "nombre": "Sicilia - Messina"
+            },
+            {
+                "nombre": "Sicilia - Ragusa"
+            },
+            {
+                "nombre": "Sicilia - Siracusa"
+            },
+            {
+                "nombre": "Sicilia - Trapani"
+            },
+            {
+                "nombre": "Sardegna - Cagliari"
+            },
+            {
+                "nombre": "Sardegna - Nuoro"
+            },
+            {
+                "nombre": "Sardegna - Oristano"
+            },
+            {
+                "nombre": "Sardegna - Sassari"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Jamaica",
+        "nombre_es": "Jamaica",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+1 876",
+        "codigo_2": "JM",
+        "codigo_3": "JAM",
+        "estados": [
+            {
+                "nombre": "Jamaica"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Japan",
+        "nombre_es": "Japón",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+81",
+        "codigo_2": "JP",
+        "codigo_3": "JPN",
+        "estados": [
+            {
+                "nombre": "Aichi"
+            },
+            {
+                "nombre": "Akita"
+            },
+            {
+                "nombre": "Aomori"
+            },
+            {
+                "nombre": "Wakayama"
+            },
+            {
+                "nombre": "Gifu"
+            },
+            {
+                "nombre": "Gunma"
+            },
+            {
+                "nombre": "Ibaraki"
+            },
+            {
+                "nombre": "Iwate"
+            },
+            {
+                "nombre": "Ishikawa"
+            },
+            {
+                "nombre": "Kagawa"
+            },
+            {
+                "nombre": "Kagoshima"
+            },
+            {
+                "nombre": "Kanagawa"
+            },
+            {
+                "nombre": "Kyoto"
+            },
+            {
+                "nombre": "Kochi"
+            },
+            {
+                "nombre": "Kumamoto"
+            },
+            {
+                "nombre": "Mie"
+            },
+            {
+                "nombre": "Miyagi"
+            },
+            {
+                "nombre": "Miyazaki"
+            },
+            {
+                "nombre": "Nagano"
+            },
+            {
+                "nombre": "Nagasaki"
+            },
+            {
+                "nombre": "Nara"
+            },
+            {
+                "nombre": "Niigata"
+            },
+            {
+                "nombre": "Okayama"
+            },
+            {
+                "nombre": "Okinawa"
+            },
+            {
+                "nombre": "Osaka"
+            },
+            {
+                "nombre": "Saga"
+            },
+            {
+                "nombre": "Saitama"
+            },
+            {
+                "nombre": "Shiga"
+            },
+            {
+                "nombre": "Shizuoka"
+            },
+            {
+                "nombre": "Shimane"
+            },
+            {
+                "nombre": "Tiba"
+            },
+            {
+                "nombre": "Tokyo"
+            },
+            {
+                "nombre": "Tokushima"
+            },
+            {
+                "nombre": "Tochigi"
+            },
+            {
+                "nombre": "Tottori"
+            },
+            {
+                "nombre": "Toyama"
+            },
+            {
+                "nombre": "Fukui"
+            },
+            {
+                "nombre": "Fukuoka"
+            },
+            {
+                "nombre": "Fukushima"
+            },
+            {
+                "nombre": "Hiroshima"
+            },
+            {
+                "nombre": "Hokkaido"
+            },
+            {
+                "nombre": "Hyogo"
+            },
+            {
+                "nombre": "Yoshimi"
+            },
+            {
+                "nombre": "Yamagata"
+            },
+            {
+                "nombre": "Yamaguchi"
+            },
+            {
+                "nombre": "Yamanashi"
+            },
+            {
+                "nombre": "Chiba"
+            },
+            {
+                "nombre": "Ehime"
+            },
+            {
+                "nombre": "Oita"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Jersey",
+        "nombre_es": "Jersey",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+44",
+        "codigo_2": "JE",
+        "codigo_3": "JEY",
+        "estados": [
+            {
+                "nombre": "Saint Helier"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Jordan",
+        "nombre_es": "Jordania",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+962",
+        "codigo_2": "JO",
+        "codigo_3": "JOR",
+        "estados": [
+            {
+                "nombre": "Jordan"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Kenya",
+        "nombre_es": "Kenia",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+254",
+        "codigo_2": "KE",
+        "codigo_3": "KEN",
+        "estados": [
+            {
+                "nombre": "Central"
+            },
+            {
+                "nombre": "Coast"
+            },
+            {
+                "nombre": "Eastern"
+            },
+            {
+                "nombre": "Nairobi Area"
+            },
+            {
+                "nombre": "North-Eastern"
+            },
+            {
+                "nombre": "Nyanza"
+            },
+            {
+                "nombre": "Rift Valley"
+            },
+            {
+                "nombre": "Western"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Kyrgyzstan",
+        "nombre_es": "Kirguistán",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+996",
+        "codigo_2": "KG",
+        "codigo_3": "KGZ",
+        "estados": [
+            {
+                "nombre": "Issik Kulskaya Region"
+            },
+            {
+                "nombre": "Kyrgyzstan"
+            },
+            {
+                "nombre": "Narinskaya Region"
+            },
+            {
+                "nombre": "Oshskaya Region"
+            },
+            {
+                "nombre": "Tallaskaya Region"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Kiribati",
+        "nombre_es": "Kiribati",
+        "continente_en": "Oceania",
+        "continente_es": "Oceanía",
+        "codigo_internacional": "+686",
+        "codigo_2": "KI",
+        "codigo_3": "KIR",
+        "estados": [
+            {
+                "nombre": "Gilbert Islands"
+            },
+            {
+                "nombre": "Line Islands"
+            },
+            {
+                "nombre": "Phoenix Islands"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Kuwait",
+        "nombre_es": "Kuwait",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+965",
+        "codigo_2": "KW",
+        "codigo_3": "KWT",
+        "estados": [
+            {
+                "nombre": "al-Jahra"
+            },
+            {
+                "nombre": "al-Kuwait"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Laos",
+        "nombre_es": "Laos",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+856",
+        "codigo_2": "LA",
+        "codigo_3": "LAO",
+        "estados": [
+            {
+                "nombre": "Laos"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Lesotho",
+        "nombre_es": "Lesoto",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+266",
+        "codigo_2": "LS",
+        "codigo_3": "LSO",
+        "estados": [
+            {
+                "nombre": "Lesotho"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Latvia",
+        "nombre_es": "Letonia",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+371",
+        "codigo_2": "LV",
+        "codigo_3": "LVA",
+        "estados": [
+            {
+                "nombre": "Latviya"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Lebanon",
+        "nombre_es": "Líbano",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+961",
+        "codigo_2": "LB",
+        "codigo_3": "LBN",
+        "estados": [
+            {
+                "nombre": "Beirut"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Liberia",
+        "nombre_es": "Liberia",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+231",
+        "codigo_2": "LR",
+        "codigo_3": "LBR",
+        "estados": [
+            {
+                "nombre": "Liberia"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Libya",
+        "nombre_es": "Libia",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+218",
+        "codigo_2": "LY",
+        "codigo_3": "LBY",
+        "estados": [
+            {
+                "nombre": "Tarabulus"
+            },
+            {
+                "nombre": "Bengasi"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Liechtenstein",
+        "nombre_es": "Liechtenstein",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+423",
+        "codigo_2": "LI",
+        "codigo_3": "LIE",
+        "estados": [
+            {
+                "nombre": "Balzers"
+            },
+            {
+                "nombre": "Eschen"
+            },
+            {
+                "nombre": "Gamprin"
+            },
+            {
+                "nombre": "Mauren"
+            },
+            {
+                "nombre": "Planken"
+            },
+            {
+                "nombre": "Ruggell"
+            },
+            {
+                "nombre": "Schaan"
+            },
+            {
+                "nombre": "Schellenberg"
+            },
+            {
+                "nombre": "Triesen"
+            },
+            {
+                "nombre": "Triesenberg"
+            },
+            {
+                "nombre": "Vaduz"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Lithuania",
+        "nombre_es": "Lituania",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+370",
+        "codigo_2": "LT",
+        "codigo_3": "LTU",
+        "estados": [
+            {
+                "nombre": "Litva"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Luxembourg",
+        "nombre_es": "Luxemburgo",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+352",
+        "codigo_2": "LU",
+        "codigo_3": "LUX",
+        "estados": [
+            {
+                "nombre": "Diekirch"
+            },
+            {
+                "nombre": "Grevenmacher"
+            },
+            {
+                "nombre": "Luxembourg"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Macedonia",
+        "nombre_es": "Macedonia",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+389",
+        "codigo_2": "MK",
+        "codigo_3": "MKD",
+        "estados": [
+            {
+                "nombre": "Aracinovo"
+            },
+            {
+                "nombre": "Bac"
+            },
+            {
+                "nombre": "Belcista"
+            },
+            {
+                "nombre": "Berovo"
+            },
+            {
+                "nombre": "Bistrica"
+            },
+            {
+                "nombre": "Bitola"
+            },
+            {
+                "nombre": "Blatec"
+            },
+            {
+                "nombre": "Bogdanci"
+            },
+            {
+                "nombre": "Bogomila"
+            },
+            {
+                "nombre": "Bogovinje"
+            },
+            {
+                "nombre": "Bosilovo"
+            },
+            {
+                "nombre": "Cair"
+            },
+            {
+                "nombre": "Capari"
+            },
+            {
+                "nombre": "Caska"
+            },
+            {
+                "nombre": "Cegrane"
+            },
+            {
+                "nombre": "Centar Zupa"
+            },
+            {
+                "nombre": "Debar"
+            },
+            {
+                "nombre": "Delcevo"
+            },
+            {
+                "nombre": "Demir Hisar"
+            },
+            {
+                "nombre": "Demir Kapija"
+            },
+            {
+                "nombre": "Dorce Petrov"
+            },
+            {
+                "nombre": "Gazi Baba"
+            },
+            {
+                "nombre": "Gevgelija"
+            },
+            {
+                "nombre": "Gostivar"
+            },
+            {
+                "nombre": "Gradsko"
+            },
+            {
+                "nombre": "Jegunovce"
+            },
+            {
+                "nombre": "Kamenjane"
+            },
+            {
+                "nombre": "Karpos"
+            },
+            {
+                "nombre": "Kavadarci"
+            },
+            {
+                "nombre": "Kicevo"
+            },
+            {
+                "nombre": "Kisela Voda"
+            },
+            {
+                "nombre": "Klecevce"
+            },
+            {
+                "nombre": "Kocani"
+            },
+            {
+                "nombre": "Kondovo"
+            },
+            {
+                "nombre": "Kratovo"
+            },
+            {
+                "nombre": "Krivogastani"
+            },
+            {
+                "nombre": "Krusevo"
+            },
+            {
+                "nombre": "Kumanovo"
+            },
+            {
+                "nombre": "Labunista"
+            },
+            {
+                "nombre": "Lipkovo"
+            },
+            {
+                "nombre": "Makedonska Kamenica"
+            },
+            {
+                "nombre": "Makedonski Brod"
+            },
+            {
+                "nombre": "Murtino"
+            },
+            {
+                "nombre": "Negotino"
+            },
+            {
+                "nombre": "Novo Selo"
+            },
+            {
+                "nombre": "Ohrid"
+            },
+            {
+                "nombre": "Orizari"
+            },
+            {
+                "nombre": "Petrovec"
+            },
+            {
+                "nombre": "Prilep"
+            },
+            {
+                "nombre": "Probistip"
+            },
+            {
+                "nombre": "Radovis"
+            },
+            {
+                "nombre": "Resen"
+            },
+            {
+                "nombre": "Rosoman"
+            },
+            {
+                "nombre": "Saraj"
+            },
+            {
+                "nombre": "Srbinovo"
+            },
+            {
+                "nombre": "Star Dojran"
+            },
+            {
+                "nombre": "Stip"
+            },
+            {
+                "nombre": "Struga"
+            },
+            {
+                "nombre": "Strumica"
+            },
+            {
+                "nombre": "Studenicani"
+            },
+            {
+                "nombre": "Suto Orizari"
+            },
+            {
+                "nombre": "Sveti Nikole"
+            },
+            {
+                "nombre": "Tearce"
+            },
+            {
+                "nombre": "Tetovo"
+            },
+            {
+                "nombre": "Valandovo"
+            },
+            {
+                "nombre": "Veles"
+            },
+            {
+                "nombre": "Vevcani"
+            },
+            {
+                "nombre": "Vinica"
+            },
+            {
+                "nombre": "Vrapciste"
+            },
+            {
+                "nombre": "Zelino"
+            },
+            {
+                "nombre": "Zrnovci"
+            },
+            {
+                "nombre": "Skopje"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Madagascar",
+        "nombre_es": "Madagascar",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+261",
+        "codigo_2": "MG",
+        "codigo_3": "MDG",
+        "estados": [
+            {
+                "nombre": "Madagascar"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Malaysia",
+        "nombre_es": "Malasia",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+60",
+        "codigo_2": "MY",
+        "codigo_3": "MYS",
+        "estados": [
+            {
+                "nombre": "Malaysia"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Malawi",
+        "nombre_es": "Malawi",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+265",
+        "codigo_2": "MW",
+        "codigo_3": "MWI",
+        "estados": [
+            {
+                "nombre": "Malawi"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Maldives",
+        "nombre_es": "Maldivas",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+960",
+        "codigo_2": "MV",
+        "codigo_3": "MDV",
+        "estados": [
+            {
+                "nombre": "Maldives"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Malta",
+        "nombre_es": "Malta",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+356",
+        "codigo_2": "MT",
+        "codigo_3": "MLT",
+        "estados": [
+            {
+                "nombre": "Malta"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Morocco",
+        "nombre_es": "Marruecos",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+212",
+        "codigo_2": "MA",
+        "codigo_3": "MAR",
+        "estados": [
+            {
+                "nombre": "Morocco"
+            },
+            {
+                "nombre": "Tangier"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Martinique",
+        "nombre_es": "Martinica",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+596",
+        "codigo_2": "MQ",
+        "codigo_3": "MTQ",
+        "estados": [
+            {
+                "nombre": "Fort-de-France"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Mauritius",
+        "nombre_es": "Mauricio",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+230",
+        "codigo_2": "MU",
+        "codigo_3": "MUS",
+        "estados": [
+            {
+                "nombre": "Mauritius"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Mauritania",
+        "nombre_es": "Mauritania",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+222",
+        "codigo_2": "MR",
+        "codigo_3": "MRT",
+        "estados": [
+            {
+                "nombre": "Mauritania"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Mexico",
+        "nombre_es": "México",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+52",
+        "codigo_2": "MX",
+        "codigo_3": "MEX",
+        "estados": [
+            {
+                "nombre": "Aguascalientes"
+            },
+            {
+                "nombre": "Baja California"
+            },
+            {
+                "nombre": "Baja California Sur"
+            },
+            {
+                "nombre": "Campeche"
+            },
+            {
+                "nombre": "Chiapas"
+            },
+            {
+                "nombre": "Chihuahua"
+            },
+            {
+                "nombre": "Coahuila de Zaragoza"
+            },
+            {
+                "nombre": "Colima"
+            },
+            {
+                "nombre": "Distrito Federal"
+            },
+            {
+                "nombre": "Durango"
+            },
+            {
+                "nombre": "Guanajuato"
+            },
+            {
+                "nombre": "Guerrero"
+            },
+            {
+                "nombre": "Hidalgo"
+            },
+            {
+                "nombre": "Jalisco"
+            },
+            {
+                "nombre": "México"
+            },
+            {
+                "nombre": "Michoacán de Ocampo"
+            },
+            {
+                "nombre": "Morelos"
+            },
+            {
+                "nombre": "Nayarit"
+            },
+            {
+                "nombre": "Nuevo León"
+            },
+            {
+                "nombre": "Oaxaca"
+            },
+            {
+                "nombre": "Puebla"
+            },
+            {
+                "nombre": "Querétaro de Arteaga"
+            },
+            {
+                "nombre": "Quintana Roo"
+            },
+            {
+                "nombre": "San Luis Potosí"
+            },
+            {
+                "nombre": "Sinaloa"
+            },
+            {
+                "nombre": "Sonora"
+            },
+            {
+                "nombre": "Tabasco"
+            },
+            {
+                "nombre": "Tamaulipas"
+            },
+            {
+                "nombre": "Tlaxcala"
+            },
+            {
+                "nombre": "Veracruz-Llave"
+            },
+            {
+                "nombre": "Yucatán"
+            },
+            {
+                "nombre": "Zacatecas"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Moldova",
+        "nombre_es": "Moldavia",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+373",
+        "codigo_2": "MD",
+        "codigo_3": "MDA",
+        "estados": [
+            {
+                "nombre": "Moldova"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Monaco",
+        "nombre_es": "Mónaco",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+377",
+        "codigo_2": "MC",
+        "codigo_3": "MCO",
+        "estados": [
+            {
+                "nombre": "La Condamine"
+            },
+            {
+                "nombre": "Monaco"
+            },
+            {
+                "nombre": "Monte-Carlo"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Mongolia",
+        "nombre_es": "Mongolia",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+976",
+        "codigo_2": "MN",
+        "codigo_3": "MNG",
+        "estados": [
+            {
+                "nombre": "Ulan Bator"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Mozambique",
+        "nombre_es": "Mozambique",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+258",
+        "codigo_2": "MZ",
+        "codigo_3": "MOZ",
+        "estados": [
+            {
+                "nombre": "Mozambique"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Myanmar",
+        "nombre_es": "Myanmar",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+95",
+        "codigo_2": "MM",
+        "codigo_3": "MMR",
+        "estados": [
+            {
+                "nombre": "Myanmar (Burma)"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Namibia",
+        "nombre_es": "Namibia",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+264",
+        "codigo_2": "NA",
+        "codigo_3": "NAM",
+        "estados": [
+            {
+                "nombre": "Namibia"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Nauru",
+        "nombre_es": "Nauru",
+        "continente_en": "Oceania",
+        "continente_es": "Oceanía",
+        "codigo_internacional": "+674",
+        "codigo_2": "NR",
+        "codigo_3": "NRU",
+        "estados": [
+            {
+                "nombre": "Nauru"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Nepal",
+        "nombre_es": "Nepal",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+977",
+        "codigo_2": "NP",
+        "codigo_3": "NPL",
+        "estados": [
+            {
+                "nombre": "Nepal"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Nicaragua",
+        "nombre_es": "Nicaragua",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+505",
+        "codigo_2": "NI",
+        "codigo_3": "NIC",
+        "estados": [
+            {
+                "nombre": "Boaco"
+            },
+            {
+                "nombre": "Carazo"
+            },
+            {
+                "nombre": "Chinandega"
+            },
+            {
+                "nombre": "Chontales"
+            },
+            {
+                "nombre": "Estelí"
+            },
+            {
+                "nombre": "Granada"
+            },
+            {
+                "nombre": "Jinotega"
+            },
+            {
+                "nombre": "León"
+            },
+            {
+                "nombre": "Madriz"
+            },
+            {
+                "nombre": "Managua"
+            },
+            {
+                "nombre": "Masaya"
+            },
+            {
+                "nombre": "Matagalpa"
+            },
+            {
+                "nombre": "Nueva Segovia"
+            },
+            {
+                "nombre": "Rio San Juan"
+            },
+            {
+                "nombre": "Rivas"
+            },
+            {
+                "nombre": "Zelaya"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Niger",
+        "nombre_es": "Níger",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+227",
+        "codigo_2": "NE",
+        "codigo_3": "NER",
+        "estados": [
+            {
+                "nombre": "Niger"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Niger",
+        "nombre_es": "Níger",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+227",
+        "codigo_2": "NE",
+        "codigo_3": "NER",
+        "estados": [
+            {
+                "nombre": "Nigeria"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Norfolk Island",
+        "nombre_es": "Isla Norfolk",
+        "continente_en": "Oceania",
+        "continente_es": "Oceanía",
+        "codigo_internacional": "+672",
+        "codigo_2": "NF",
+        "codigo_3": "NFK",
+        "estados": [
+            {
+                "nombre": "Kingston"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Norway",
+        "nombre_es": "Noruega",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+47",
+        "codigo_2": "NO",
+        "codigo_3": "NOR",
+        "estados": [
+            {
+                "nombre": "Akershus"
+            },
+            {
+                "nombre": "Aust-Agder"
+            },
+            {
+                "nombre": "Buskerud"
+            },
+            {
+                "nombre": "Finnmark"
+            },
+            {
+                "nombre": "Hedmark"
+            },
+            {
+                "nombre": "Hordaland"
+            },
+            {
+                "nombre": "More og Romsdal"
+            },
+            {
+                "nombre": "Nordland"
+            },
+            {
+                "nombre": "Nord-Trondelag"
+            },
+            {
+                "nombre": "Oppland"
+            },
+            {
+                "nombre": "Oslo"
+            },
+            {
+                "nombre": "Ostfold"
+            },
+            {
+                "nombre": "Rogaland"
+            },
+            {
+                "nombre": "Sogn og Fjordane"
+            },
+            {
+                "nombre": "Sor-Trondelag"
+            },
+            {
+                "nombre": "Telemark"
+            },
+            {
+                "nombre": "Troms"
+            },
+            {
+                "nombre": "Vest-Agder"
+            },
+            {
+                "nombre": "Vestfold"
+            }
+        ]
+    },
+    {
+        "nombre_en": "New Caledonia",
+        "nombre_es": "Nueva Caledonia",
+        "continente_en": "Oceania",
+        "continente_es": "Oceanía",
+        "codigo_internacional": "+687",
+        "codigo_2": "NC",
+        "codigo_3": "NCL",
+        "estados": [
+            {
+                "nombre": "Noumea"
+            }
+        ]
+    },
+    {
+        "nombre_en": "New Zealand",
+        "nombre_es": "Nueva Zelanda",
+        "continente_en": "Oceania",
+        "continente_es": "Oceanía",
+        "codigo_internacional": "+64",
+        "codigo_2": "NZ",
+        "codigo_3": "NZL",
+        "estados": [
+            {
+                "nombre": "Auckland"
+            },
+            {
+                "nombre": "Bay of Plenty"
+            },
+            {
+                "nombre": "Canterbury"
+            },
+            {
+                "nombre": "Gisborne"
+            },
+            {
+                "nombre": "Hawkes Bay"
+            },
+            {
+                "nombre": "Manawatu-Wanganui"
+            },
+            {
+                "nombre": "Marlborough"
+            },
+            {
+                "nombre": "Nelson"
+            },
+            {
+                "nombre": "Northland"
+            },
+            {
+                "nombre": "Otago"
+            },
+            {
+                "nombre": "Southland"
+            },
+            {
+                "nombre": "Taranaki"
+            },
+            {
+                "nombre": "Tasman"
+            },
+            {
+                "nombre": "Waikato"
+            },
+            {
+                "nombre": "Wellington"
+            },
+            {
+                "nombre": "West Coast"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Oman",
+        "nombre_es": "Omán",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+968",
+        "codigo_2": "OM",
+        "codigo_3": "OMN",
+        "estados": [
+            {
+                "nombre": "Oman"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Netherlands",
+        "nombre_es": "Países Bajos",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+31",
+        "codigo_2": "NL",
+        "codigo_3": "NLD",
+        "estados": [
+            {
+                "nombre": "Drenthe"
+            },
+            {
+                "nombre": "Friesland"
+            },
+            {
+                "nombre": "Gelderland"
+            },
+            {
+                "nombre": "Groningen"
+            },
+            {
+                "nombre": "Limburg"
+            },
+            {
+                "nombre": "Noord-Brabant"
+            },
+            {
+                "nombre": "Noord-Holland"
+            },
+            {
+                "nombre": "Utrecht"
+            },
+            {
+                "nombre": "Zeeland"
+            },
+            {
+                "nombre": "Zuid-Holland"
+            },
+            {
+                "nombre": "Overijssel"
+            },
+            {
+                "nombre": "Flevoland"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Pakistan",
+        "nombre_es": "Pakistán",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+92",
+        "codigo_2": "PK",
+        "codigo_3": "PAK",
+        "estados": [
+            {
+                "nombre": "Pakistan"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Panama",
+        "nombre_es": "Panamá",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+507",
+        "codigo_2": "PA",
+        "codigo_3": "PAN",
+        "estados": [
+            {
+                "nombre": "Bocas del Toro"
+            },
+            {
+                "nombre": "Chiriquí"
+            },
+            {
+                "nombre": "Coclé"
+            },
+            {
+                "nombre": "Colón"
+            },
+            {
+                "nombre": "Darién"
+            },
+            {
+                "nombre": "Herrera"
+            },
+            {
+                "nombre": "Los Santos"
+            },
+            {
+                "nombre": "Panamá"
+            },
+            {
+                "nombre": "San Blas"
+            },
+            {
+                "nombre": "Veraguas"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Guinea",
+        "nombre_es": "Guinea",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+224",
+        "codigo_2": "GN",
+        "codigo_3": "GIN",
+        "estados": [
+            {
+                "nombre": "Papua New Guinea"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Paraguay",
+        "nombre_es": "Paraguay",
+        "continente_en": "South America",
+        "continente_es": "América del Sur",
+        "codigo_internacional": "+595",
+        "codigo_2": "PY",
+        "codigo_3": "PRY",
+        "estados": [
+            {
+                "nombre": "Alto Paraná"
+            },
+            {
+                "nombre": "Amambay"
+            },
+            {
+                "nombre": "Boquerón"
+            },
+            {
+                "nombre": "Caaguazú"
+            },
+            {
+                "nombre": "Caazapá"
+            },
+            {
+                "nombre": "Central"
+            },
+            {
+                "nombre": "Concepción"
+            },
+            {
+                "nombre": "Cordillera"
+            },
+            {
+                "nombre": "Guairá"
+            },
+            {
+                "nombre": "Itapúa"
+            },
+            {
+                "nombre": "Misiones"
+            },
+            {
+                "nombre": "Neembucú"
+            },
+            {
+                "nombre": "Paraguarí"
+            },
+            {
+                "nombre": "Presidente Hayes"
+            },
+            {
+                "nombre": "San Pedro"
+            },
+            {
+                "nombre": "Alto Paraguay"
+            },
+            {
+                "nombre": "Canindeyú"
+            },
+            {
+                "nombre": "Chaco"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Peru",
+        "nombre_es": "Perú",
+        "continente_en": "South America",
+        "continente_es": "América del Sur",
+        "codigo_internacional": "+51",
+        "codigo_2": "PE",
+        "codigo_3": "PER",
+        "estados": [
+            {
+                "nombre": "Amazonas"
+            },
+            {
+                "nombre": "Ancash"
+            },
+            {
+                "nombre": "Apurímac"
+            },
+            {
+                "nombre": "Arequipa"
+            },
+            {
+                "nombre": "Ayacucho"
+            },
+            {
+                "nombre": "Cajamarca"
+            },
+            {
+                "nombre": "Callao"
+            },
+            {
+                "nombre": "Cusco"
+            },
+            {
+                "nombre": "Huancavelica"
+            },
+            {
+                "nombre": "Huánuco"
+            },
+            {
+                "nombre": "Ica"
+            },
+            {
+                "nombre": "Junín"
+            },
+            {
+                "nombre": "La Libertad"
+            },
+            {
+                "nombre": "Lambayeque"
+            },
+            {
+                "nombre": "Lima"
+            },
+            {
+                "nombre": "Loreto"
+            },
+            {
+                "nombre": "Madre de Dios"
+            },
+            {
+                "nombre": "Moquegua"
+            },
+            {
+                "nombre": "Pasco"
+            },
+            {
+                "nombre": "Piura"
+            },
+            {
+                "nombre": "Puno"
+            },
+            {
+                "nombre": "San Martín"
+            },
+            {
+                "nombre": "Tacna"
+            },
+            {
+                "nombre": "Tumbes"
+            },
+            {
+                "nombre": "Ucayali"
+            }
+        ]
+    },
+    {
+        "nombre_en": "France",
+        "nombre_es": "Francia",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+33",
+        "codigo_2": "FR",
+        "codigo_3": "FRA",
+        "estados": [
+            {
+                "nombre": "Papeete"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Poland",
+        "nombre_es": "Polonia",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+48",
+        "codigo_2": "PL",
+        "codigo_3": "POL",
+        "estados": [
+            {
+                "nombre": "Biala Podlaska"
+            },
+            {
+                "nombre": "Bialystok"
+            },
+            {
+                "nombre": "Bielsko"
+            },
+            {
+                "nombre": "Bydgoszcz"
+            },
+            {
+                "nombre": "Chelm"
+            },
+            {
+                "nombre": "Ciechanow"
+            },
+            {
+                "nombre": "Czestochowa"
+            },
+            {
+                "nombre": "Elblag"
+            },
+            {
+                "nombre": "Gdansk"
+            },
+            {
+                "nombre": "Gorzow"
+            },
+            {
+                "nombre": "Jelenia Gora"
+            },
+            {
+                "nombre": "Kalisz"
+            },
+            {
+                "nombre": "Katowice"
+            },
+            {
+                "nombre": "Kielce"
+            },
+            {
+                "nombre": "Konin"
+            },
+            {
+                "nombre": "Koszalin"
+            },
+            {
+                "nombre": "Krakow"
+            },
+            {
+                "nombre": "Krosno"
+            },
+            {
+                "nombre": "Legnica"
+            },
+            {
+                "nombre": "Leszno"
+            },
+            {
+                "nombre": "Lodz"
+            },
+            {
+                "nombre": "Lomza"
+            },
+            {
+                "nombre": "Lublin"
+            },
+            {
+                "nombre": "Nowy Sacz"
+            },
+            {
+                "nombre": "Olsztyn"
+            },
+            {
+                "nombre": "Opole"
+            },
+            {
+                "nombre": "Ostroleka"
+            },
+            {
+                "nombre": "Pila"
+            },
+            {
+                "nombre": "Piotrkow"
+            },
+            {
+                "nombre": "Plock"
+            },
+            {
+                "nombre": "Poznan"
+            },
+            {
+                "nombre": "Przemysl"
+            },
+            {
+                "nombre": "Radom"
+            },
+            {
+                "nombre": "Rzeszow"
+            },
+            {
+                "nombre": "Siedlce"
+            },
+            {
+                "nombre": "Sieradz"
+            },
+            {
+                "nombre": "Skierniewice"
+            },
+            {
+                "nombre": "Slupsk"
+            },
+            {
+                "nombre": "Suwalki"
+            },
+            {
+                "nombre": "Tarnobrzeg"
+            },
+            {
+                "nombre": "Tarnow"
+            },
+            {
+                "nombre": "Torun"
+            },
+            {
+                "nombre": "Walbrzych"
+            },
+            {
+                "nombre": "Warszawa"
+            },
+            {
+                "nombre": "Wloclawek"
+            },
+            {
+                "nombre": "Wroclaw"
+            },
+            {
+                "nombre": "Zamosc"
+            },
+            {
+                "nombre": "Zielona Gora"
+            },
+            {
+                "nombre": "Dolnoslaskie"
+            },
+            {
+                "nombre": "Kujawsko-Pomorskie"
+            },
+            {
+                "nombre": "Lodzkie"
+            },
+            {
+                "nombre": "Lubelskie"
+            },
+            {
+                "nombre": "Lubuskie"
+            },
+            {
+                "nombre": "Malopolskie"
+            },
+            {
+                "nombre": "Mazowieckie"
+            },
+            {
+                "nombre": "Opolskie"
+            },
+            {
+                "nombre": "Podkarpackie"
+            },
+            {
+                "nombre": "Podlaskie"
+            },
+            {
+                "nombre": "Pomorskie"
+            },
+            {
+                "nombre": "Slaskie"
+            },
+            {
+                "nombre": "Swietokrzyskie"
+            },
+            {
+                "nombre": "Warminsko-Mazurskie"
+            },
+            {
+                "nombre": "Wielkopolskie"
+            },
+            {
+                "nombre": "Zachodniopomorskie"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Portugal",
+        "nombre_es": "Portugal",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+351",
+        "codigo_2": "PT",
+        "codigo_3": "PRT",
+        "estados": [
+            {
+                "nombre": "Aveiro"
+            },
+            {
+                "nombre": "Beja"
+            },
+            {
+                "nombre": "Braga"
+            },
+            {
+                "nombre": "Braganca"
+            },
+            {
+                "nombre": "Castelo Branco"
+            },
+            {
+                "nombre": "Coimbra"
+            },
+            {
+                "nombre": "Evora"
+            },
+            {
+                "nombre": "Faro"
+            },
+            {
+                "nombre": "Madeira"
+            },
+            {
+                "nombre": "Guarda"
+            },
+            {
+                "nombre": "Leiria"
+            },
+            {
+                "nombre": "Lisboa"
+            },
+            {
+                "nombre": "Portalegre"
+            },
+            {
+                "nombre": "Porto"
+            },
+            {
+                "nombre": "Santarem"
+            },
+            {
+                "nombre": "Setubal"
+            },
+            {
+                "nombre": "Viana do Castelo"
+            },
+            {
+                "nombre": "Vila Real"
+            },
+            {
+                "nombre": "Viseu"
+            },
+            {
+                "nombre": "Azores"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Puerto Rico",
+        "nombre_es": "Puerto Rico",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+1939",
+        "codigo_2": "PR",
+        "codigo_3": "PRI",
+        "estados": [
+            {
+                "nombre": "Puerto Rico"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Qatar",
+        "nombre_es": "Catar",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+974",
+        "codigo_2": "QA",
+        "codigo_3": "QAT",
+        "estados": [
+            {
+                "nombre": "Doha"
+            }
+        ]
+    },
+    {
+        "nombre_en": "United Kingdom",
+        "nombre_es": "Reino Unido",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+44",
+        "codigo_2": "GB",
+        "codigo_3": "GBR",
+        "estados": [
+            {
+                "nombre": "Scotland North"
+            },
+            {
+                "nombre": "England - East"
+            },
+            {
+                "nombre": "England - West Midlands"
+            },
+            {
+                "nombre": "England - South West"
+            },
+            {
+                "nombre": "England - North West"
+            },
+            {
+                "nombre": "England - Yorks Y Humber"
+            },
+            {
+                "nombre": "England - South East"
+            },
+            {
+                "nombre": "England - London"
+            },
+            {
+                "nombre": "Northern Ireland"
+            },
+            {
+                "nombre": "England - North East"
+            },
+            {
+                "nombre": "Wales South"
+            },
+            {
+                "nombre": "Wales North"
+            },
+            {
+                "nombre": "England - East Midlands"
+            },
+            {
+                "nombre": "Scotland Central"
+            },
+            {
+                "nombre": "Scotland South"
+            },
+            {
+                "nombre": "Channel Islands"
+            },
+            {
+                "nombre": "Isle of Man"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Dominica",
+        "nombre_es": "Dominica",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+1767",
+        "codigo_2": "DM",
+        "codigo_3": "DMA",
+        "estados": [
+            {
+                "nombre": "Santo Domingo"
+            },
+            {
+                "nombre": "Duarte"
+            },
+            {
+                "nombre": "Puerto Plata"
+            },
+            {
+                "nombre": "Valverde"
+            },
+            {
+                "nombre": "María Trinidad Sánchez"
+            },
+            {
+                "nombre": "Azua"
+            },
+            {
+                "nombre": "Santiago"
+            },
+            {
+                "nombre": "San Cristóbal"
+            },
+            {
+                "nombre": "Peravia"
+            },
+            {
+                "nombre": "Elías Piña"
+            },
+            {
+                "nombre": "Barahona"
+            },
+            {
+                "nombre": "Monte Plata"
+            },
+            {
+                "nombre": "Salcedo"
+            },
+            {
+                "nombre": "La Altagracia"
+            },
+            {
+                "nombre": "San Juan"
+            },
+            {
+                "nombre": "Monseñor Nouel"
+            },
+            {
+                "nombre": "Monte Cristi"
+            },
+            {
+                "nombre": "Espaillat"
+            },
+            {
+                "nombre": "Sánchez Ramírez"
+            },
+            {
+                "nombre": "La Vega"
+            },
+            {
+                "nombre": "San Pedro de Macorís"
+            },
+            {
+                "nombre": "Independencia"
+            },
+            {
+                "nombre": "Dajabón"
+            },
+            {
+                "nombre": "Baoruco"
+            },
+            {
+                "nombre": "El Seibo"
+            },
+            {
+                "nombre": "Hato Mayor"
+            },
+            {
+                "nombre": "La Romana"
+            },
+            {
+                "nombre": "Pedernales"
+            },
+            {
+                "nombre": "Samaná"
+            },
+            {
+                "nombre": "Santiago Rodríguez"
+            },
+            {
+                "nombre": "San José de Ocoa"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Réunion",
+        "nombre_es": "Reunión",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+262",
+        "codigo_2": "RE",
+        "codigo_3": "REU",
+        "estados": [
+            {
+                "nombre": "Saint-Denis"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Rwanda",
+        "nombre_es": "Ruanda",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+250",
+        "codigo_2": "RW",
+        "codigo_3": "RWA",
+        "estados": [
+            {
+                "nombre": "Rwanda"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Russia",
+        "nombre_es": "Rusia",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+7",
+        "codigo_2": "RU",
+        "codigo_3": "RUS",
+        "estados": [
+            {
+                "nombre": "Altaiskii krai"
+            },
+            {
+                "nombre": "Amurskaya obl."
+            },
+            {
+                "nombre": "Arhangelskaya obl."
+            },
+            {
+                "nombre": "Astrahanskaya obl."
+            },
+            {
+                "nombre": "Bashkiriya obl."
+            },
+            {
+                "nombre": "Belgorodskaya obl."
+            },
+            {
+                "nombre": "Bryanskaya obl."
+            },
+            {
+                "nombre": "Buryatiya"
+            },
+            {
+                "nombre": "Vladimirskaya obl."
+            },
+            {
+                "nombre": "Volgogradskaya obl."
+            },
+            {
+                "nombre": "Vologodskaya obl."
+            },
+            {
+                "nombre": "Voronezhskaya obl."
+            },
+            {
+                "nombre": "Nizhegorodskaya obl."
+            },
+            {
+                "nombre": "Dagestan"
+            },
+            {
+                "nombre": "Evreiskaya obl."
+            },
+            {
+                "nombre": "Ivanovskaya obl."
+            },
+            {
+                "nombre": "Irkutskaya obl."
+            },
+            {
+                "nombre": "Kabardino-Balkariya"
+            },
+            {
+                "nombre": "Kaliningradskaya obl."
+            },
+            {
+                "nombre": "Tverskaya obl."
+            },
+            {
+                "nombre": "Kalmykiya"
+            },
+            {
+                "nombre": "Kaluzhskaya obl."
+            },
+            {
+                "nombre": "Kamchatskaya obl."
+            },
+            {
+                "nombre": "Kareliya"
+            },
+            {
+                "nombre": "Kemerovskaya obl."
+            },
+            {
+                "nombre": "Kirovskaya obl."
+            },
+            {
+                "nombre": "Komi"
+            },
+            {
+                "nombre": "Kostromskaya obl."
+            },
+            {
+                "nombre": "Krasnodarskii krai"
+            },
+            {
+                "nombre": "Krasnoyarskii krai"
+            },
+            {
+                "nombre": "Kurganskaya obl."
+            },
+            {
+                "nombre": "Kurskaya obl."
+            },
+            {
+                "nombre": "Lipetskaya obl."
+            },
+            {
+                "nombre": "Magadanskaya obl."
+            },
+            {
+                "nombre": "Marii El"
+            },
+            {
+                "nombre": "Mordoviya"
+            },
+            {
+                "nombre": "Moscow Y Moscow Region"
+            },
+            {
+                "nombre": "Murmanskaya obl."
+            },
+            {
+                "nombre": "Novgorodskaya obl."
+            },
+            {
+                "nombre": "Novosibirskaya obl."
+            },
+            {
+                "nombre": "Omskaya obl."
+            },
+            {
+                "nombre": "Orenburgskaya obl."
+            },
+            {
+                "nombre": "Orlovskaya obl."
+            },
+            {
+                "nombre": "Penzenskaya obl."
+            },
+            {
+                "nombre": "Permskiy krai"
+            },
+            {
+                "nombre": "Primorskii krai"
+            },
+            {
+                "nombre": "Pskovskaya obl."
+            },
+            {
+                "nombre": "Rostovskaya obl."
+            },
+            {
+                "nombre": "Ryazanskaya obl."
+            },
+            {
+                "nombre": "Samarskaya obl."
+            },
+            {
+                "nombre": "Saint-Petersburg and Region"
+            },
+            {
+                "nombre": "Saratovskaya obl."
+            },
+            {
+                "nombre": "Saha (Yakutiya)"
+            },
+            {
+                "nombre": "Sahalin"
+            },
+            {
+                "nombre": "Sverdlovskaya obl."
+            },
+            {
+                "nombre": "Severnaya Osetiya"
+            },
+            {
+                "nombre": "Smolenskaya obl."
+            },
+            {
+                "nombre": "Stavropolskii krai"
+            },
+            {
+                "nombre": "Tambovskaya obl."
+            },
+            {
+                "nombre": "Tatarstan"
+            },
+            {
+                "nombre": "Tomskaya obl."
+            },
+            {
+                "nombre": "Tulskaya obl."
+            },
+            {
+                "nombre": "Tyumenskaya obl. i Hanty-Mansiiskii AO"
+            },
+            {
+                "nombre": "Udmurtiya"
+            },
+            {
+                "nombre": "Ulyanovskaya obl."
+            },
+            {
+                "nombre": "Uralskaya obl."
+            },
+            {
+                "nombre": "Habarovskii krai"
+            },
+            {
+                "nombre": "Chelyabinskaya obl."
+            },
+            {
+                "nombre": "Checheno-Ingushetiya"
+            },
+            {
+                "nombre": "Chitinskaya obl."
+            },
+            {
+                "nombre": "Chuvashiya"
+            },
+            {
+                "nombre": "Yaroslavskaya obl."
+            },
+            {
+                "nombre": "Adygeya"
+            },
+            {
+                "nombre": "Hakasiya"
+            },
+            {
+                "nombre": "Chukotskii AO"
+            },
+            {
+                "nombre": "Yamalo-Nenetskii AO"
+            },
+            {
+                "nombre": "Karachaeva-Cherkesskaya Respublica"
+            },
+            {
+                "nombre": "Raimirskii (Dolgano-Nenetskii) AO"
+            },
+            {
+                "nombre": "Respublica Tiva"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Samoa",
+        "nombre_es": "Samoa",
+        "continente_en": "Oceania",
+        "continente_es": "Oceanía",
+        "codigo_internacional": "+685",
+        "codigo_2": "WS",
+        "codigo_3": "WSM",
+        "estados": [
+            {
+                "nombre": "Samoa"
+            }
+        ]
+    },
+    {
+        "nombre_en": "San Marino",
+        "nombre_es": "San Marino",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+378",
+        "codigo_2": "SM",
+        "codigo_3": "SMR",
+        "estados": [
+            {
+                "nombre": "Acquaviva"
+            },
+            {
+                "nombre": "Chiesanuova"
+            },
+            {
+                "nombre": "Domagnano"
+            },
+            {
+                "nombre": "Faetano"
+            },
+            {
+                "nombre": "Fiorentino"
+            },
+            {
+                "nombre": "Borgo Maggiore"
+            },
+            {
+                "nombre": "San Marino"
+            },
+            {
+                "nombre": "Monte Giardino"
+            },
+            {
+                "nombre": "Serravalle"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Saint Pierre and Miquelon",
+        "nombre_es": "San Pedro y Miquelón",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+508",
+        "codigo_2": "PM",
+        "codigo_3": "SPM",
+        "estados": [
+            {
+                "nombre": "Saint Pierre"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Saint Helena",
+        "nombre_es": "Santa Elena",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+290",
+        "codigo_2": "SH",
+        "codigo_3": "SHN",
+        "estados": [
+            {
+                "nombre": "Jamestown"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Saint Lucia",
+        "nombre_es": "Santa Lucía",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+1758",
+        "codigo_2": "LC",
+        "codigo_3": "LCA",
+        "estados": [
+            {
+                "nombre": "Castries"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Senegal",
+        "nombre_es": "Senegal",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+221",
+        "codigo_2": "SN",
+        "codigo_3": "SEN",
+        "estados": [
+            {
+                "nombre": "Senegal"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Montenegro",
+        "nombre_es": "Montenegro",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+382",
+        "codigo_2": "ME",
+        "codigo_3": "MNE",
+        "estados": [
+            {
+                "nombre": "Belgrade"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Seychelles",
+        "nombre_es": "Seychelles",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+248",
+        "codigo_2": "SC",
+        "codigo_3": "SYC",
+        "estados": [
+            {
+                "nombre": "Seychelles"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Sierra Leone",
+        "nombre_es": "Sierra Leona",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+232",
+        "codigo_2": "SL",
+        "codigo_3": "SLE",
+        "estados": [
+            {
+                "nombre": "Freetown"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Singapore",
+        "nombre_es": "Singapur",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+65",
+        "codigo_2": "SG",
+        "codigo_3": "SGP",
+        "estados": [
+            {
+                "nombre": "Singapore"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Syria",
+        "nombre_es": "Siria",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+963",
+        "codigo_2": "SY",
+        "codigo_3": "SYR",
+        "estados": [
+            {
+                "nombre": "Damascus"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Somalia",
+        "nombre_es": "Somalia",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+252",
+        "codigo_2": "SO",
+        "codigo_3": "SOM",
+        "estados": [
+            {
+                "nombre": "Mogadishu"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Sri Lanka",
+        "nombre_es": "Sri Lanka",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+94",
+        "codigo_2": "LK",
+        "codigo_3": "LKA",
+        "estados": [
+            {
+                "nombre": "Sri Lanka"
+            }
+        ]
+    },
+    {
+        "nombre_en": "South Africa",
+        "nombre_es": "Sudáfrica",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+27",
+        "codigo_2": "ZA",
+        "codigo_3": "ZAF",
+        "estados": [
+            {
+                "nombre": "Johannesburg"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Sudan",
+        "nombre_es": "Sudán",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+249",
+        "codigo_2": "SD",
+        "codigo_3": "SDN",
+        "estados": [
+            {
+                "nombre": "Sudan"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Sweden",
+        "nombre_es": "Suecia",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+46",
+        "codigo_2": "SE",
+        "codigo_3": "SWE",
+        "estados": [
+            {
+                "nombre": "Blekinge Lan"
+            },
+            {
+                "nombre": "Gavleborgs Lan"
+            },
+            {
+                "nombre": "Gotlands Lan"
+            },
+            {
+                "nombre": "Hallands Lan"
+            },
+            {
+                "nombre": "Jamtlands Lan"
+            },
+            {
+                "nombre": "Jonkopings Lan"
+            },
+            {
+                "nombre": "Kalmar Lan"
+            },
+            {
+                "nombre": "Dalarnas Lan"
+            },
+            {
+                "nombre": "Kronobergs Lan"
+            },
+            {
+                "nombre": "Norrbottens Lan"
+            },
+            {
+                "nombre": "Orebro Lan"
+            },
+            {
+                "nombre": "Ostergotlands Lan"
+            },
+            {
+                "nombre": "Sodermanlands Lan"
+            },
+            {
+                "nombre": "Uppsala Lan"
+            },
+            {
+                "nombre": "Varmlands Lan"
+            },
+            {
+                "nombre": "Vasterbottens Lan"
+            },
+            {
+                "nombre": "Vasternorrlands Lan"
+            },
+            {
+                "nombre": "Vastmanlands Lan"
+            },
+            {
+                "nombre": "Stockholms Lan"
+            },
+            {
+                "nombre": "Skane Lan"
+            },
+            {
+                "nombre": "Vastra Gotaland"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Switzerland",
+        "nombre_es": "Suiza",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+41",
+        "codigo_2": "CH",
+        "codigo_3": "CHE",
+        "estados": [
+            {
+                "nombre": "Aargau"
+            },
+            {
+                "nombre": "Appenzell Innerrhoden"
+            },
+            {
+                "nombre": "Appenzell Ausserrhoden"
+            },
+            {
+                "nombre": "Bern"
+            },
+            {
+                "nombre": "Basel-Landschaft"
+            },
+            {
+                "nombre": "Basel-Stadt"
+            },
+            {
+                "nombre": "Fribourg"
+            },
+            {
+                "nombre": "Genève"
+            },
+            {
+                "nombre": "Glarus"
+            },
+            {
+                "nombre": "Graubünden"
+            },
+            {
+                "nombre": "Jura"
+            },
+            {
+                "nombre": "Luzern"
+            },
+            {
+                "nombre": "Neuchâtel"
+            },
+            {
+                "nombre": "Nidwalden"
+            },
+            {
+                "nombre": "Obwalden"
+            },
+            {
+                "nombre": "Sankt Gallen"
+            },
+            {
+                "nombre": "Schaffhausen"
+            },
+            {
+                "nombre": "Solothurn"
+            },
+            {
+                "nombre": "Schwyz"
+            },
+            {
+                "nombre": "Thurgau"
+            },
+            {
+                "nombre": "Ticino"
+            },
+            {
+                "nombre": "Uri"
+            },
+            {
+                "nombre": "Vaud"
+            },
+            {
+                "nombre": "Valais"
+            },
+            {
+                "nombre": "Zug"
+            },
+            {
+                "nombre": "Zürich"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Suriname",
+        "nombre_es": "Surinam",
+        "continente_en": "South America",
+        "continente_es": "América del Sur",
+        "codigo_internacional": "+597",
+        "codigo_2": "SR",
+        "codigo_3": "SUR",
+        "estados": [
+            {
+                "nombre": "Paramaribo"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Thailand",
+        "nombre_es": "Tailandia",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+66",
+        "codigo_2": "TH",
+        "codigo_3": "THA",
+        "estados": [
+            {
+                "nombre": "Thailand"
+            },
+            {
+                "nombre": "Amnat Charoen"
+            },
+            {
+                "nombre": "Ang Thong"
+            },
+            {
+                "nombre": "Bangkok"
+            },
+            {
+                "nombre": "Buri Ram"
+            },
+            {
+                "nombre": "Chachoengsao"
+            },
+            {
+                "nombre": "Chai Nat"
+            },
+            {
+                "nombre": "Chaiyaphum"
+            },
+            {
+                "nombre": "Chanthaburi"
+            },
+            {
+                "nombre": "Chiang Mai"
+            },
+            {
+                "nombre": "Chiang Rai"
+            },
+            {
+                "nombre": "Chon Buri"
+            },
+            {
+                "nombre": "Kalasin"
+            },
+            {
+                "nombre": "Kanchanaburi"
+            },
+            {
+                "nombre": "Khon Kaen"
+            },
+            {
+                "nombre": "Krabi"
+            },
+            {
+                "nombre": "Lampang"
+            },
+            {
+                "nombre": "Loei"
+            },
+            {
+                "nombre": "Lop Buri"
+            },
+            {
+                "nombre": "Mae Hong Son"
+            },
+            {
+                "nombre": "Maha Sarakham"
+            },
+            {
+                "nombre": "Nakhon Pathom"
+            },
+            {
+                "nombre": "Nakhon Ratchasima"
+            },
+            {
+                "nombre": "Nakhon Sawan"
+            },
+            {
+                "nombre": "Nakhon Si Thammarat"
+            },
+            {
+                "nombre": "Narathiwat"
+            },
+            {
+                "nombre": "Nong Bua Lam Phu"
+            },
+            {
+                "nombre": "Nong Khai"
+            },
+            {
+                "nombre": "Nonthaburi"
+            },
+            {
+                "nombre": "Pathum Thani"
+            },
+            {
+                "nombre": "Pattani"
+            },
+            {
+                "nombre": "Phangnga"
+            },
+            {
+                "nombre": "Phatthalung"
+            },
+            {
+                "nombre": "Phichit"
+            },
+            {
+                "nombre": "Phitsanulok"
+            },
+            {
+                "nombre": "Phra Nakhon Si Ayutthaya"
+            },
+            {
+                "nombre": "Phrae"
+            },
+            {
+                "nombre": "Phuket"
+            },
+            {
+                "nombre": "Prachin Buri"
+            },
+            {
+                "nombre": "Prachuap Khiri Khan"
+            },
+            {
+                "nombre": "Ratchaburi"
+            },
+            {
+                "nombre": "Rayong"
+            },
+            {
+                "nombre": "Roi Et"
+            },
+            {
+                "nombre": "Sa Kaeo"
+            },
+            {
+                "nombre": "Sakon Nakhon"
+            },
+            {
+                "nombre": "Samut Prakan"
+            },
+            {
+                "nombre": "Samut Sakhon"
+            },
+            {
+                "nombre": "Samut Songkhran"
+            },
+            {
+                "nombre": "Saraburi"
+            },
+            {
+                "nombre": "Si Sa Ket"
+            },
+            {
+                "nombre": "Sing Buri"
+            },
+            {
+                "nombre": "Songkhla"
+            },
+            {
+                "nombre": "Sukhothai"
+            },
+            {
+                "nombre": "Suphan Buri"
+            },
+            {
+                "nombre": "Surat Thani"
+            },
+            {
+                "nombre": "Surin"
+            },
+            {
+                "nombre": "Trang"
+            },
+            {
+                "nombre": "Ubon Ratchathani"
+            },
+            {
+                "nombre": "Udon Thani"
+            },
+            {
+                "nombre": "Uthai Thani"
+            },
+            {
+                "nombre": "Uttaradit"
+            },
+            {
+                "nombre": "Yala"
+            },
+            {
+                "nombre": "Yasothon"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Taiwan",
+        "nombre_es": "Taiwán",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+886",
+        "codigo_2": "TW",
+        "codigo_3": "TWN",
+        "estados": [
+            {
+                "nombre": "Taiwan"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Tanzania",
+        "nombre_es": "Tanzania",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+255",
+        "codigo_2": "TZ",
+        "codigo_3": "TZA",
+        "estados": [
+            {
+                "nombre": "Tanzania"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Togo",
+        "nombre_es": "Togo",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+228",
+        "codigo_2": "TG",
+        "codigo_3": "TGO",
+        "estados": [
+            {
+                "nombre": "Togo"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Tokelau",
+        "nombre_es": "Tokelau",
+        "continente_en": "Oceania",
+        "continente_es": "Oceanía",
+        "codigo_internacional": "+690",
+        "codigo_2": "TK",
+        "codigo_3": "TKL",
+        "estados": [
+            {
+                "nombre": "Fakaofo"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Tonga",
+        "nombre_es": "Tonga",
+        "continente_en": "Oceania",
+        "continente_es": "Oceanía",
+        "codigo_internacional": "+676",
+        "codigo_2": "TO",
+        "codigo_3": "TON",
+        "estados": [
+            {
+                "nombre": "Tonga"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Trinidad and Tobago",
+        "nombre_es": "Trinidad y Tobago",
+        "continente_en": "North America",
+        "continente_es": "América del Norte",
+        "codigo_internacional": "+1868",
+        "codigo_2": "TT",
+        "codigo_3": "TTO",
+        "estados": [
+            {
+                "nombre": "Port of Spain"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Tunisia",
+        "nombre_es": "Túnez",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+216",
+        "codigo_2": "TN",
+        "codigo_3": "TUN",
+        "estados": [
+            {
+                "nombre": "Tunisia"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Turkmenistan",
+        "nombre_es": "Turkmenistán",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+993",
+        "codigo_2": "TM",
+        "codigo_3": "TKM",
+        "estados": [
+            {
+                "nombre": "Ashgabat Region"
+            },
+            {
+                "nombre": "Krasnovodsk Region"
+            },
+            {
+                "nombre": "Mary Region"
+            },
+            {
+                "nombre": "Tashauz Region"
+            },
+            {
+                "nombre": "Chardzhou Region"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Türkiye",
+        "nombre_es": "Turquía",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+90",
+        "codigo_2": "TR",
+        "codigo_3": "TUR",
+        "estados": [
+            {
+                "nombre": "Bartin"
+            },
+            {
+                "nombre": "Bayburt"
+            },
+            {
+                "nombre": "Karabuk"
+            },
+            {
+                "nombre": "Adana"
+            },
+            {
+                "nombre": "Aydin"
+            },
+            {
+                "nombre": "Amasya"
+            },
+            {
+                "nombre": "Ankara"
+            },
+            {
+                "nombre": "Antalya"
+            },
+            {
+                "nombre": "Artvin"
+            },
+            {
+                "nombre": "Afion"
+            },
+            {
+                "nombre": "Balikesir"
+            },
+            {
+                "nombre": "Bilecik"
+            },
+            {
+                "nombre": "Bursa"
+            },
+            {
+                "nombre": "Gaziantep"
+            },
+            {
+                "nombre": "Denizli"
+            },
+            {
+                "nombre": "Izmir"
+            },
+            {
+                "nombre": "Isparta"
+            },
+            {
+                "nombre": "Icel"
+            },
+            {
+                "nombre": "Kayseri"
+            },
+            {
+                "nombre": "Kars"
+            },
+            {
+                "nombre": "Kodjaeli"
+            },
+            {
+                "nombre": "Konya"
+            },
+            {
+                "nombre": "Kirklareli"
+            },
+            {
+                "nombre": "Kutahya"
+            },
+            {
+                "nombre": "Malatya"
+            },
+            {
+                "nombre": "Manisa"
+            },
+            {
+                "nombre": "Sakarya"
+            },
+            {
+                "nombre": "Samsun"
+            },
+            {
+                "nombre": "Sivas"
+            },
+            {
+                "nombre": "Istanbul"
+            },
+            {
+                "nombre": "Trabzon"
+            },
+            {
+                "nombre": "Corum"
+            },
+            {
+                "nombre": "Edirne"
+            },
+            {
+                "nombre": "Elazig"
+            },
+            {
+                "nombre": "Erzincan"
+            },
+            {
+                "nombre": "Erzurum"
+            },
+            {
+                "nombre": "Eskisehir"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Tuvalu",
+        "nombre_es": "Tuvalu",
+        "continente_en": "Oceania",
+        "continente_es": "Oceanía",
+        "codigo_internacional": "+688",
+        "codigo_2": "TV",
+        "codigo_3": "TUV",
+        "estados": [
+            {
+                "nombre": "Tuvalu"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Ukraine",
+        "nombre_es": "Ucrania",
+        "continente_en": "Europe",
+        "continente_es": "Europa",
+        "codigo_internacional": "+380",
+        "codigo_2": "UA",
+        "codigo_3": "UKR",
+        "estados": [
+            {
+                "nombre": "Vinnitskaya obl."
+            },
+            {
+                "nombre": "Volynskaya obl."
+            },
+            {
+                "nombre": "Dnepropetrovskaya obl."
+            },
+            {
+                "nombre": "Donetskaya obl."
+            },
+            {
+                "nombre": "Zhitomirskaya obl."
+            },
+            {
+                "nombre": "Zakarpatskaya obl."
+            },
+            {
+                "nombre": "Zaporozhskaya obl."
+            },
+            {
+                "nombre": "Ivano-Frankovskaya obl."
+            },
+            {
+                "nombre": "Kievskaya obl."
+            },
+            {
+                "nombre": "Kirovogradskaya obl."
+            },
+            {
+                "nombre": "Krymskaya obl."
+            },
+            {
+                "nombre": "Luganskaya obl."
+            },
+            {
+                "nombre": "Lvovskaya obl."
+            },
+            {
+                "nombre": "Nikolaevskaya obl."
+            },
+            {
+                "nombre": "Odesskaya obl."
+            },
+            {
+                "nombre": "Poltavskaya obl."
+            },
+            {
+                "nombre": "Rovenskaya obl."
+            },
+            {
+                "nombre": "Sumskaya obl."
+            },
+            {
+                "nombre": "Ternopolskaya obl."
+            },
+            {
+                "nombre": "Harkovskaya obl."
+            },
+            {
+                "nombre": "Hersonskaya obl."
+            },
+            {
+                "nombre": "Hmelnitskaya obl."
+            },
+            {
+                "nombre": "Cherkasskaya obl."
+            },
+            {
+                "nombre": "Chernigovskaya obl."
+            },
+            {
+                "nombre": "Chernovitskaya obl."
+            },
+            {
+                "nombre": "Ukraina"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Uganda",
+        "nombre_es": "Uganda",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+256",
+        "codigo_2": "UG",
+        "codigo_3": "UGA",
+        "estados": [
+            {
+                "nombre": "Jinja"
+            },
+            {
+                "nombre": "Kampala"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Uruguay",
+        "nombre_es": "Uruguay",
+        "continente_en": "South America",
+        "continente_es": "América del Sur",
+        "codigo_internacional": "+598",
+        "codigo_2": "UY",
+        "codigo_3": "URY",
+        "estados": [
+            {
+                "nombre": "Artigas"
+            },
+            {
+                "nombre": "Canelones"
+            },
+            {
+                "nombre": "Cerro Largo"
+            },
+            {
+                "nombre": "Colonia"
+            },
+            {
+                "nombre": "Durazno"
+            },
+            {
+                "nombre": "Flores"
+            },
+            {
+                "nombre": "Florida"
+            },
+            {
+                "nombre": "Lavalleja"
+            },
+            {
+                "nombre": "Maldonado"
+            },
+            {
+                "nombre": "Montevideo"
+            },
+            {
+                "nombre": "Paysandú"
+            },
+            {
+                "nombre": "Río Negro"
+            },
+            {
+                "nombre": "Rivera"
+            },
+            {
+                "nombre": "Rocha"
+            },
+            {
+                "nombre": "Salto"
+            },
+            {
+                "nombre": "San José"
+            },
+            {
+                "nombre": "Soriano"
+            },
+            {
+                "nombre": "Tacuarembó"
+            },
+            {
+                "nombre": "Treinta y Tres"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Uzbekistan",
+        "nombre_es": "Uzbekistán",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+998",
+        "codigo_2": "UZ",
+        "codigo_3": "UZB",
+        "estados": [
+            {
+                "nombre": "Andijon Region"
+            },
+            {
+                "nombre": "Buxoro Region"
+            },
+            {
+                "nombre": "Jizzac Region"
+            },
+            {
+                "nombre": "Qaraqalpaqstan"
+            },
+            {
+                "nombre": "Qashqadaryo Region"
+            },
+            {
+                "nombre": "Navoiy Region"
+            },
+            {
+                "nombre": "Namangan Region"
+            },
+            {
+                "nombre": "Samarqand Region"
+            },
+            {
+                "nombre": "Surxondaryo Region"
+            },
+            {
+                "nombre": "Sirdaryo Region"
+            },
+            {
+                "nombre": "Tashkent Region"
+            },
+            {
+                "nombre": "Fergana Region"
+            },
+            {
+                "nombre": "Xorazm Region"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Vanuatu",
+        "nombre_es": "Vanuatu",
+        "continente_en": "Oceania",
+        "continente_es": "Oceanía",
+        "codigo_internacional": "+678",
+        "codigo_2": "VU",
+        "codigo_3": "VUT",
+        "estados": [
+            {
+                "nombre": "Vanuatu"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Venezuela",
+        "nombre_es": "Venezuela",
+        "continente_en": "South America",
+        "continente_es": "América del Sur",
+        "codigo_internacional": "+58",
+        "codigo_2": "VE",
+        "codigo_3": "VEN",
+        "estados": [
+            {
+                "nombre": "Amazonas"
+            },
+            {
+                "nombre": "Anzoategui"
+            },
+            {
+                "nombre": "Apure"
+            },
+            {
+                "nombre": "Aragua"
+            },
+            {
+                "nombre": "Barinas"
+            },
+            {
+                "nombre": "Bolívar"
+            },
+            {
+                "nombre": "Carabobo"
+            },
+            {
+                "nombre": "Cojedes"
+            },
+            {
+                "nombre": "Delta Amacuro"
+            },
+            {
+                "nombre": "Falcón"
+            },
+            {
+                "nombre": "Guárico"
+            },
+            {
+                "nombre": "Lara"
+            },
+            {
+                "nombre": "Mérida"
+            },
+            {
+                "nombre": "Miranda"
+            },
+            {
+                "nombre": "Monagas"
+            },
+            {
+                "nombre": "Nueva Esparta"
+            },
+            {
+                "nombre": "Portuguesa"
+            },
+            {
+                "nombre": "Sucre"
+            },
+            {
+                "nombre": "Táchira"
+            },
+            {
+                "nombre": "Trujillo"
+            },
+            {
+                "nombre": "Yaracuy"
+            },
+            {
+                "nombre": "Zulia"
+            },
+            {
+                "nombre": "Dependencias Federales"
+            },
+            {
+                "nombre": "Distrito Federal"
+            },
+            {
+                "nombre": "Vargas"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Vietnam",
+        "nombre_es": "Vietnam",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+84",
+        "codigo_2": "VN",
+        "codigo_3": "VNM",
+        "estados": [
+            {
+                "nombre": "Dong Bang Song Cuu Long"
+            },
+            {
+                "nombre": "Dong Bang Song Hong"
+            },
+            {
+                "nombre": "Dong Nam Bo"
+            },
+            {
+                "nombre": "Duyen Hai Mien Trung"
+            },
+            {
+                "nombre": "Khu Bon Cu"
+            },
+            {
+                "nombre": "Mien Nui Va Trung Du"
+            },
+            {
+                "nombre": "Thai Nguyen"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Wallis and Futuna",
+        "nombre_es": "Wallis y Futuna",
+        "continente_en": "Oceania",
+        "continente_es": "Oceanía",
+        "codigo_internacional": "+681",
+        "codigo_2": "WF",
+        "codigo_3": "WLF",
+        "estados": [
+            {
+                "nombre": "Mata-Utu"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Yemen",
+        "nombre_es": "Yemen",
+        "continente_en": "Asia",
+        "continente_es": "Asia",
+        "codigo_internacional": "+967",
+        "codigo_2": "YE",
+        "codigo_3": "YEM",
+        "estados": [
+            {
+                "nombre": "Yemen"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Zambia",
+        "nombre_es": "Zambia",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+260",
+        "codigo_2": "ZM",
+        "codigo_3": "ZMB",
+        "estados": [
+            {
+                "nombre": "Zambia"
+            }
+        ]
+    },
+    {
+        "nombre_en": "Zimbabwe",
+        "nombre_es": "Zimbabue",
+        "continente_en": "Africa",
+        "continente_es": "África",
+        "codigo_internacional": "+263",
+        "codigo_2": "ZW",
+        "codigo_3": "ZWE",
+        "estados": [
+            {
+                "nombre": "Zimbabwe"
+            }
+        ]
+    }
+]

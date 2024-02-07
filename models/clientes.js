@@ -40,10 +40,10 @@ const Clientes = new Schema({
     pais_id:{
         type: Schema.Types.ObjectId,
         ref: 'paises'
-    }
+    },
     codigo_postal:{
         type: String
-    }
+    },
 
 
     //facturacion
@@ -73,7 +73,7 @@ const Clientes = new Schema({
     // 2 - Inactivo
     credito_status:{
         type: Number,
-    default: 2
+        default: 2
     },
 
     //sistema
