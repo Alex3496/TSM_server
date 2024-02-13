@@ -17,6 +17,7 @@ class ClientesController {
      * @description Añade un nuevo cliente al sistema
      */
     static add = async ({ body, files }, response) => {
+        console.log("body", body);
 
         let cliente = new Clientes(body);
 
