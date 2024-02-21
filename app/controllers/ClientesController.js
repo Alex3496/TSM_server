@@ -65,7 +65,7 @@ class ClientesController {
 
 
         cliente.save()
-        then(cliente => {
+        .then(cliente => {
             return response.status(200).json({message: "Cliente actualizado"})
         }).catch(error => {
             return response.status(400).json({message: "Error al actualizar el cliente"})
@@ -80,7 +80,7 @@ class ClientesController {
      */
     static get = async ({ params, query }, response) => {
 
-        let cliente = await Clientes.findOne({_id: params.id})
+        let cliente = await Clientes.findOne({_id: params?.id})
             .populate('pais_id')
             .populate('estado_id')
             .lean();
