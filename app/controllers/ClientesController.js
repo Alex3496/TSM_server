@@ -1,7 +1,5 @@
-const fs = require('fs');
-const mime = require('mime');
-const mongoose = require('mongoose');
 
+//MODELOS
 const Clientes = require('../../models/clientes');
 
 /**
@@ -95,7 +93,8 @@ class ClientesController {
      * @memberof ClientesController
      * @description Retorna la lista de clientes del sistema
      */
-    static list = async ({ query, files }, response) => {
+    static list = async ({ query, files, user }, response) => {
+        console.log("user", user);
 
         let body = query;
 
