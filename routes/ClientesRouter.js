@@ -10,9 +10,9 @@ const AuthMiddleware = require('../app/middlewares/AuthMiddleware');
 const router = express.Router()
 
 module.exports = router
-    .post('/clientes',		ClientesController.add)
-    .get('/clientes',		[AuthMiddleware], ClientesController.list)
-    .get('/clientes/:id',	ClientesController.get)
-    .put('/clientes',		ClientesController.update)
-    .delete('/clientes',	ClientesController.delete)
+    .post('/clientes',		[AuthMiddleware],    ClientesController.add)
+    .get('/clientes',		[AuthMiddleware],    ClientesController.list)
+    .get('/clientes/:id',	[AuthMiddleware],    ClientesController.get)
+    .put('/clientes',		[AuthMiddleware],    ClientesController.update)
+    .delete('/clientes',	[AuthMiddleware],    ClientesController.delete)
     

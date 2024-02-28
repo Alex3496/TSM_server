@@ -7,6 +7,7 @@ const requestIP = require('request-ip')
 //ROUTERS
 const AuthRouter = require('./routes/AuthRouter');
 const ClientesRouter = require('./routes/ClientesRouter');
+const LocationsRouter = require('./routes/LocationsRouter');
 const PaisesEstadosRouter = require('./routes/PaisesEstadosRouter');
 
 module.exports = function () {
@@ -37,6 +38,7 @@ module.exports = function () {
 	app.use(
 		AuthRouter,
 		ClientesRouter,
+		LocationsRouter,
 		PaisesEstadosRouter
 	);
 	
