@@ -15,8 +15,6 @@ class LocationsController {
      * @description Añade una nueva ubicacion al sistema
      */
     static add = async ({ body, user, files }, response) => {
-        console.log("user", user);
-        console.log("body", body);
 
         body.usuario_padre_id = user._id;
 

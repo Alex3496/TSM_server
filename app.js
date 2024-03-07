@@ -6,6 +6,7 @@ const requestIP = require('request-ip')
 
 //ROUTERS
 const AuthRouter = require('./routes/AuthRouter');
+const TrailerRouter = require('./routes/TrailerRouter');
 const ClientesRouter = require('./routes/ClientesRouter');
 const LocationsRouter = require('./routes/LocationsRouter');
 const PaisesEstadosRouter = require('./routes/PaisesEstadosRouter');
@@ -37,6 +38,7 @@ module.exports = function () {
 	//AGREGAR RUTAS AL SERVIDOR
 	app.use(
 		AuthRouter,
+		TrailerRouter,
 		ClientesRouter,
 		LocationsRouter,
 		PaisesEstadosRouter
