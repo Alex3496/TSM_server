@@ -23,27 +23,20 @@ class AuthController {
         /* La confirmacion de contrasenas coinciden */
         if (password !== confirm) return response.status(400).json({
             success: false,
-            message: "Las contrasenas no coinciden"
+            message: "password don't match"
         })
 
         let user_T = await Usuarios.findOne({ email: email })
         if (user_T) {
             return response.status(400).json({
-                message: 'Usuario ya registrado'
+                message: 'The email is already registered'
             })
         }
-
-        body.apellidos = body.apellido_paterno
-
-        // let prospecto = new Prospectos(body)
 
         let user = new Usuarios(body);
 
         user.save()
             .then(async user => {
-
-                await prospecto.save()
-
 
                 let new_user = await Usuarios.findOne({ _id: user._id }).select("-password")
                 await new_user.save()
@@ -89,6 +82,24 @@ class AuthController {
                     return response.status(400).json({ message: error})
                 });
         }
+    };
+
+    /**
+     * @static
+     * @memberof AuthController
+     *
+     * @function userLogged
+     * @description para obtener el objeto del usuario loggeado
+     * */
+    static userLogged = async (request, response) => {
+
+        let user = await Usuarios.findOne({
+            _id: request.user
+        }).select('-password').populate("rol_id")
+
+        response.status(200).json({
+            data: user
+        });
     };
 
 
