@@ -69,6 +69,10 @@ const Drivers = new Schema({
     num_fast_card:{
     	type: String
     },
+    usuario_padre_id:{ //creador del cliente
+        type: Schema.Types.ObjectId,
+        ref: 'usuarios'
+    }
 
 
 }, { timestamps: true })

@@ -51,6 +51,11 @@ const Usuarios = new Schema({
 		default: true
 	},
 
+	usuario_padre_id:{ //creador del usuarios
+        type: Schema.Types.ObjectId,
+        ref: 'usuarios'
+    }
+
 }, {
 	timestamps: true
 })

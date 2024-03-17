@@ -1,6 +1,8 @@
-
+const mongoose = require('mongoose');
 //MODELOS
 const Drivers = require('../../models/drivers');
+
+const { ObjectId } = mongoose.Types;
 
 /**
  * @class DriversController
@@ -14,8 +16,11 @@ class DriversController {
      * @memberof DriversController
      * @description Añade un nuevo conductor al sistema
      */
-    static add = async ({ body, files }, response) => {
+    static add = async ({ body, files, user }, response) => {
         console.log("body", body);
+
+        if(user.usuario_padre_id) body.usuario_padre_id = user.usuario_padre_id;
+        else body.usuario_padre_id = user._id;
 
         let driver = new Drivers(body);
 
@@ -98,6 +103,20 @@ class DriversController {
         let body = query;
 
         let pipeline = []
+
+        let usuario_padre_id = null;
+        if(user.usuario_padre_id) usuario_padre_id = user.usuario_padre_id
+        else usuario_padre_id = user._id;
+
+        if(usuario_padre_id){
+            pipeline.push(
+                {
+                    $match:{
+                        usuario_padre_id: new ObjectId(usuario_padre_id)
+                    }
+                }
+            )
+        }
 
         if (body.search) {
             let buscar = (body.search == undefined) ? '.*' : body.search + '.*'

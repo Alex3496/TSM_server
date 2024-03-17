@@ -1,6 +1,8 @@
-
+const mongoose = require('mongoose');
 //MODELOS
 const Trailers = require('../../models/trailers');
+
+const { ObjectId } = mongoose.Types;
 
 /**
  * @class TrailersController
@@ -16,7 +18,8 @@ class TrailersController {
      */
     static add = async ({ body, user, files }, response) => {
 
-        body.usuario_padre_id = user._id;
+        if(user.usuario_padre_id) body.usuario_padre_id = user.usuario_padre_id;
+        else body.usuario_padre_id = user._id;
 
         let trailer = new Trailers(body);
 
@@ -91,6 +94,20 @@ class TrailersController {
         let body = query;
 
         let pipeline = []
+
+        let usuario_padre_id = null;
+        if(user.usuario_padre_id) usuario_padre_id = user.usuario_padre_id
+        else usuario_padre_id = user._id;
+
+        if(usuario_padre_id){
+            pipeline.push(
+                {
+                    $match:{
+                        usuario_padre_id: new ObjectId(usuario_padre_id)
+                    }
+                }
+            )
+        }
 
         if (body.search) {
             let buscar = (body.search == undefined) ? '.*' : body.search + '.*'

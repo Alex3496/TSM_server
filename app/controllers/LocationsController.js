@@ -1,6 +1,8 @@
-
+const mongoose = require('mongoose');
 //MODELOS
 const Locations = require('../../models/locations');
+
+const { ObjectId } = mongoose.Types;
 
 /**
  * @class LocationsController
@@ -16,7 +18,8 @@ class LocationsController {
      */
     static add = async ({ body, user, files }, response) => {
 
-        body.usuario_padre_id = user._id;
+        if(user.usuario_padre_id) body.usuario_padre_id = user.usuario_padre_id;
+        else body.usuario_padre_id = user._id;
 
         let location = new Locations(body);
 
@@ -97,6 +100,21 @@ class LocationsController {
 
         let pipeline = []
 
+        let usuario_padre_id = null;
+        if(user.usuario_padre_id) usuario_padre_id = user.usuario_padre_id
+        else usuario_padre_id = user._id;
+
+        if(usuario_padre_id){
+            pipeline.push(
+                {
+                    $match:{
+                        usuario_padre_id: new ObjectId(usuario_padre_id)
+                    }
+                }
+            )
+        }
+            console.log("pipeline", pipeline);
+
         if (body.search) {
             let buscar = (body.search == undefined) ? '.*' : body.search + '.*'
             pipeline.push({
@@ -121,7 +139,8 @@ class LocationsController {
                 }
             },{
                 $unwind:{
-                    path: "$pais_id"
+                    path: "$pais_id",
+                    preserveNullAndEmptyArrays: true,
                 }
             },{
                 $lookup:{
@@ -132,7 +151,8 @@ class LocationsController {
                 }
             },{
                 $unwind:{
-                    path: "$estado_id"
+                    path: "$estado_id",
+                    preserveNullAndEmptyArrays: true
                 }
             }
         )
